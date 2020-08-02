@@ -1,0 +1,50 @@
+{
+	"manager": [
+		{
+			"user" : "manager",
+			"pass" : "123"
+		}
+	],
+	"agent" : [
+		{
+			"user" : "agent1",
+			"pass" : "123"
+		},
+		{
+			"user" : "agent2",
+			"pass" : "123"
+		},
+		{
+			"user" : "agent3",
+			"pass" : "123"
+		},
+		{
+			"user" : "agent4",
+			"pass" : "123"
+		},
+		{
+			"user" : "agent5",
+			"pass" : "123"
+		},
+		{
+			"user" : "agent6",
+			"pass" : "123"
+		},
+		{
+			"user" : "agent7",
+			"pass" : "123"
+		},
+		{
+			"user" : "agent8",
+			"pass" : "123"
+		},
+		{
+			"user" : "agent9",
+			"pass" : "123"
+		},
+		{
+			"user" : "agent10",
+			"pass" : "123"
+		}
+	]
+}

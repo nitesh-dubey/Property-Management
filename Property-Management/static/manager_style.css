@@ -1,0 +1,147 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Bree Serif', serif;
+}
+
+a, a:hover{
+	text-decoration: none;
+}
+
+body{
+	background-color: #8C92AC;
+	/*background-blend-mode: overlay; */
+	background-image: url(bg8.jpeg);
+	background-size: cover;
+	background-repeat: repeat;
+	background-position: center top;
+	overflow-y: hidden;
+  	overflow-x: hidden;
+}
+
+.container{
+	position: absolute;
+	height: 100vh;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	overflow: scroll;
+}
+
+.card{
+	display: flex;
+	height: 350px;
+	width: 220px;
+	cursor: pointer;
+	box-shadow: -1rem 0 3rem #000;
+	margin-left: -50px;
+	position: relative;
+	left: 0px;
+	border-radius: 10px;
+	transition: 0.4s ease-out;
+	background-image: radial-gradient(circle farthest-corner at 10% 20%, rgba(6,123,239,1) 14.2%, rgba(219, 115, 249, 1)89.5%);
+}
+
+.card:not(:first-child){
+	margin-left: -100px;
+}
+
+.card:hover{
+	transform: translateY(-20px);
+	transition: 0.4s ease-out;
+	background-image: radial-gradient(circle 523px at 7.1% 19.3%, rgba(147, 15, 255, 1) 2%, rgba(5, 49, 255, 1)100.7%);
+}
+
+.card:hover~ .card{
+	position: relative;
+	left: 50px;
+	transition: 0.4s ease-out;
+}
+
+.title{
+	color: #fff;
+	font-size: 12px;
+	font-weight: 300;
+	position: absolute;
+	left: 20px;
+	top: 15px;
+}
+
+.bar{
+	position: absolute;
+	top: 50px;
+	left: 20px;
+	height: 3px;
+	width: 200px;
+}
+
+.emptybar{
+	background-color: #2e3033;
+	width: 75%;
+	height: 100%;
+}
+
+.filledbar{
+	position: absolute;
+	top: 0px;
+	z-index: 3;
+	width: 0px;
+	height: 100%;
+	background: #06f745;
+	transition: 0.4s ease-out;
+
+}
+
+.card:hover .filledbar{
+	width: 135px;
+	transition: 0.4s ease-out;
+}
+
+.agent-details{
+	width: 100%;
+	position: absolute;
+
+}
+
+.agent-details img{
+	width: 70px;
+	height: 70px;
+	position: absolute;
+	top: 68px;
+	left: 20px;
+	border-radius: 50%;
+}
+
+.agent-details .name{
+	font-size: 15px;
+	font-weight: 700;
+	position: absolute;
+	top: 156px;
+	left: 20px;
+	color: #fff;
+}
+
+.agent-details .description{
+	position: absolute;
+	top: 225px;
+	left: 20px;
+	color: #fff;
+	font-size: 15px;
+	padding-right: 60px;
+}
+
+.agent-details .button{
+	font-size: 15px;
+	padding: 5px 0px;
+	position: absolute;
+	top: 300px;
+	left: 20px;
+	width: 135px;
+	border: 1px solid #eef13b;
+	color: #040404;
+	text-align: center;
+	border-radius: 20px;
+	background-color: #eef13b;
+}

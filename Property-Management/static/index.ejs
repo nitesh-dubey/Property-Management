@@ -1,0 +1,241 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Agent<%= data.aid %></title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" type="text/css" href="vendor/animate/animate.css">
+	<link rel="stylesheet" type="text/css" href="vendor/select2/select2.min.css">
+	<link rel="stylesheet" type="text/css" href="vendor/perfect-scrollbar/perfect-scrollbar.css">
+	<link rel="stylesheet" type="text/css" href="css/util.css">
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" rel="stylesheet">
+
+</head>
+<body>
+<div class="content">
+  <div class="col-1">
+    <div class="card">
+      <div class="optional-header">
+
+      	<!-- Image Thumbnail -->
+        <div class="thumbnail thumbnail--40x40">
+        	<% if(data.aid % 2 == 0){ %>
+				<img src="/images/female.png" alt="" width="40" height="40">
+			<% } else { %>
+				<img src="/images/male.png" alt="" width="40" height="40">
+			<% } %>
+        	
+        </div>
+
+
+        <!-- Agent's basic info -->
+        <div class="primary-title">
+          <strong><div class="primary-text"><%= data.name %></div></strong>
+          <div class="text2">aid : <%= data.aid %></div>
+        </div>
+
+
+      </div>
+
+      <div class="media media--16-9"> <img src="bg.jpeg" alt="" width="640" height="426"> </div>
+
+
+      <!-- Agent's full info -->
+      <div class="primary-title">
+      	<table>
+      		<tr>
+      			<td><div class="primary-text">Contact</div></td>
+      			<td><div class="primary-text text2"><%= data.contact %></div></td>
+      		</tr>
+      		<tr>
+      			<td><div class="primary-text">Total Rented</div></td>
+      			<td><div class="primary-text text2"><%= data.countRented %></div></td>
+      		</tr>
+      		<tr>
+      			<td><div class="primary-text">Total Sold</div></td>
+      			<td><div class="primary-text text2"><%= data.countSold %></div></td>
+      		</tr>
+      		<tr>
+      			<td><div class="primary-text">Profit by Rent</div></td>
+      			<td><div class="primary-text text2">₹ <%= data.profitRented %></div></td>
+      		</tr>
+      		<tr>
+      			<td><div class="primary-text">Profit by Selling</div></td>
+      			<td><div class="primary-text text2">₹ <%= data.profitSold %></div></td>
+      		</tr>
+      	</table>
+      </div>
+
+
+      <div class="actions">
+        <div class="action-buttons">
+        	<!-- sold(document.getElementById('table-display')) -->
+          <button class="button" type="button" onclick="sold(document.getElementById('sold-table-display'))">
+          Sold</button>
+          <button class="button" type="button" onclick="rented(document.getElementById('rented-table-display'))">
+          Rented</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+	var tableSoldCreated = 0;
+	var tableRentedCreated = 0;
+	var soldValue;
+	var rentedValue;
+	var aid = <%= data.aid %>;
+
+	var sold = function(element) {
+		if (element.style.display == 'block') {
+			element.style.display = 'none';
+		} else {
+			if (tableSoldCreated == 0) {	
+				jsonSoldTableLoader();			
+				createTable('sold', soldValue, element);
+				tableSoldCreated = 1;
+			}
+			document.getElementById('rented-table-display').style.display = 'none';
+			element.style.display = 'block';
+		}
+	};
+
+	var rented = function(element) {
+		if (element.style.display == 'block') {
+			element.style.display = 'none';
+		} else {
+			if (tableRentedCreated == 0) {
+				jsonRentedTableLoader();
+				createTable('rented', rentedValue, element);
+				tableRentedCreated = 1;
+			}
+			document.getElementById('sold-table-display').style.display = 'none';
+			element.style.display = 'block';
+		}
+	};
+
+function jsonSoldTableLoader() {
+	var beer = $.ajax({
+		url : 'http://localhost:3000/soldRented?type=sold&aid=' + aid,
+		async: false,
+		dataType: 'json'
+	}).responseJSON;
+	soldValue = beer;
+}
+
+function jsonRentedTableLoader() {
+	var beer = $.ajax({
+		url : 'http://localhost:3000/soldRented?type=rented&aid=' + aid,
+		async: false,
+		dataType: 'json'
+	}).responseJSON;
+	rentedValue = beer;
+}
+
+function createTable(display, store, element) {
+	console.log('wow');
+
+	var tableStart = '\
+		<div class="container-table100">\
+			<div class="wrap-table100">\
+				<div class="table100 ver1 m-b-110">\
+					<div class="table100-head">\
+						<table>\
+							<thead>\
+								<tr class="row100 head">\
+									<th class="cell100 column1">pid</th>\
+									<th class="cell100 column2">City</th>\
+									<th class="cell100 column3">Address</th>';
+
+	var priceOrRent;
+	if (display == 'sold') {
+		priceOrRent = '<th class="cell100 column4"> Price </th>';
+	} else {
+		priceOrRent = '<th class="cell100 column4"> Rent </th>';
+	}
+
+	var tableMid = '\
+									<th class="cell100 column5">Area</th>\
+									<th class="cell100 column6">Bedrooms</th>\
+									<th class="cell100 column7">Date</th>\
+								</tr>\
+							</thead>\
+						</table>\
+					</div>\
+						\
+					<div class="table100-body js-pscroll">\
+						<table>\
+							<tbody>';
+
+	var tableData = '';
+	for(let i=0; i<store.length; i++) {
+		var entry1 =           '<tr class="row100 body">' + 
+		                          '<td class="cell100 column1">' + store[i].pid + '</td>' + 
+					              '<td class="cell100 column2">' + store[i].city + '</td>' +
+					              '<td class="cell100 column3">' + store[i].address + '</td>';
+		var entry2;
+		if (display == 'sold') {
+			entry2 =              '<td class="cell100 column4">' + store[i].price + '</td>';
+		} else {
+			entry2 =              '<td class="cell100 column4">' + store[i].rent + '</td>';
+		}
+
+		var entry3 =              '<td class="cell100 column5">' + store[i].area + '</td>' +
+					              '<td class="cell100 column6">' + store[i].bedrooms + '</td>' +
+					              '<td class="cell100 column7">' + store[i].date + '</td>' +
+					           '</tr>';
+
+		var entry = entry1 + entry2 + entry3;
+
+		tableData += entry;
+	}
+
+	var tableEnd = '\
+							</tbody>\
+						</table>\
+					</div>\
+				</div>\
+			</div>\
+		</div>';
+
+
+	var fullTable = tableStart + priceOrRent + tableMid + tableData + tableEnd;
+	element.innerHTML = fullTable;
+}
+</script>
+
+<div class="limiter" id="sold-table-display" style="display: none"> </div>
+<div class="limiter" id="rented-table-display" style="display: none"> </div>
+
+<!--===============================================================================================-->	
+	<script src="vendor/jquery/jquery-3.2.1.min.js"></script>
+<!--===============================================================================================-->
+	<script src="vendor/bootstrap/js/popper.js"></script>
+	<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+<!--===============================================================================================-->
+	<script src="vendor/select2/select2.min.js"></script>
+<!--===============================================================================================-->
+	<script src="vendor/perfect-scrollbar/perfect-scrollbar.min.js"></script>
+	<script>
+		$('.js-pscroll').each(function(){
+			var ps = new PerfectScrollbar(this);
+
+			$(window).on('resize', function(){
+				ps.update();
+			})
+		});
+			
+		
+	</script>
+<!--===============================================================================================-->
+	<script src="js/main.js"></script>
+
+</body>
+</html>

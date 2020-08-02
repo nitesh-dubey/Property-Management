@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html>
+<style>
+
+.container {
+	margin: 100px;
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+	flex-wrap: wrap;
+}
+
+.form {
+	width : 400px;
+}
+
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  width: 100%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+div {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+p .fail {
+	color : red;
+	font-size: 17px;
+}
+
+p .success {
+	color : green;
+	font-size: 17px;
+}
+
+</style>
+<body>
+
+<h3> Logged-in as <%= data.name %> </h3>
+
+
+<div class="container">
+<div class="form">
+  <form action="/agent_interface" method="POST">
+  
+    <label for="srange">Starting Range</label>
+    <input type="text" id="srange" name="priceStart" placeholder="Enter the Starting Range in Rupees..">
+
+    <label for="erange">Ending Range</label>
+    <input type="text" id="erange" name="priceEnd" placeholder="Enter the Ending Range in Rupees..">
+
+    <label for="buy_or_rent">Buy or Rent</label>
+    <select id="option" name="option">
+      <option value="buy">Buy House</option>
+      <option value="rent">Rent House</option>
+    </select>
+
+    <label for="city">City</label>
+    <select id="city" name="city">
+        <option value="Jamshedpur">Jamshedpur</option>
+		<option value="Kanpur">Kanpur</option>
+		<option value="Bareilly">Bareilly</option>
+		<option value="Mangalore">Mangalore</option>
+		<option value="Kozhikode">Kozhikode</option>
+		<option value="Kochi">Kochi</option>
+		<option value="Coimbatore">Coimbatore</option>
+		<option value="Varanasi">Varanasi</option>
+		<option value="Amritsar">Amritsar</option>
+		<option value="Puri">Puri</option>
+		<option value="Vadodara">Vadodara</option>
+		<option value="Vellore">Vellore</option>
+		<option value="Anand">Anand</option>
+		<option value="Nainital">Nainital</option>
+		<option value="Alwar">Alwar</option>
+		<option value="Siliguri">Siliguri</option>
+		<option value="Gulbarga">Gulbarga</option>
+		<option value="Thrissur">Thrissur</option>
+		<option value="Krishna">Krishna</option>
+		<option value="Jhansi">Jhansi</option>
+		<option value="Mehsana">Mehsana</option>
+		<option value="Bulandshahr">Bulandshahr</option>
+		<option value="Tirunelveli">Tirunelveli</option>
+		<option value="Ahmedabad">Ahmedabad</option>
+		<option value="Shimla">Shimla</option>
+		<option value="Tirupati">Tirupati</option>
+		<option value="Valsad">Valsad</option>
+		<option value="Solapur">Solapur</option>
+		<option value="Ranchi">Ranchi</option>
+		<option value="Ludhiana">Ludhiana</option>
+		<option value="Nashik">Nashik</option>
+		<option value="Trichy">Trichy</option>
+		<option value="Jabalpur">Jabalpur</option>
+		<option value="Nagpur">Nagpur</option>
+		<option value="Pondicherry">Pondicherry</option>
+		<option value="Pune">Pune</option>
+		<option value="Moradabad">Moradabad</option>
+		<option value="Bhopal">Bhopal</option>
+		<option value="Ghaziabad">Ghaziabad</option>
+		<option value="Aurangabad">Aurangabad</option>
+		<option value="Almora">Almora</option>
+		<option value="Panipat">Panipat</option>
+		<option value="Allahabad">Allahabad</option>
+		<option value="Guwahati">Guwahati</option>
+		<option value="Mumbai">Mumbai</option>
+		<option value="Ganjam">Ganjam</option>
+		<option value="Gurgaon">Gurgaon</option>
+		<option value="Madurai">Madurai</option>
+		<option value="Agra">Agra</option>
+		<option value="Kannur">Kannur</option>
+		<option value="Ratnagiri">Ratnagiri</option>
+		<option value="Chandigarh">Chandigarh</option>
+		<option value="Bhubaneswar">Bhubaneswar</option>
+		<option value="Satara">Satara</option>
+		<option value="Mysore">Mysore</option>
+		<option value="Surat">Surat</option>
+		<option value="Visakhapatnam">Visakhapatnam</option>
+		<option value="Ambala">Ambala</option>
+		<option value="Mathura">Mathura</option>
+		<option value="Ernakulam">Ernakulam</option>
+		<option value="Warangal">Warangal</option>
+		<option value="Kolkata">Kolkata</option>
+		<option value="Anantapuram">Anantapuram</option>
+		<option value="Jaipur">Jaipur</option>
+		<option value="Patna">Patna</option>
+		<option value="Meerut">Meerut</option>
+		<option value="Chennai">Chennai</option>
+		<option value="Indore">Indore</option>
+		<option value="Hyderabad">Hyderabad</option>
+		<option value="Kolhapur">Kolhapur</option>
+		<option value="Kottayam">Kottayam</option>
+		<option value="Haridwar">Haridwar</option>
+		<option value="Noida">Noida</option>
+		<option value="Vijayawada">Vijayawada</option>
+		<option value="Salem">Salem</option>
+		<option value="Gwalior">Gwalior</option>
+		<option value="Bangalore">Bangalore</option>
+		<option value="Delhi">Delhi</option>
+		<option value="Lucknow">Lucknow</option>
+		<option value="Trivandrum">Trivandrum</option>
+		<option value="Wayanad">Wayanad</option>
+		<option value="Jhajjar">Jhajjar</option>
+		<option value="Jodhpur">Jodhpur</option>
+		<option value="Durgapur">Durgapur</option>
+		<option value="Aligarh">Aligarh</option>
+		<option value="Dehradun">Dehradun</option>
+		<option value="Guntur">Guntur</option>
+		<option value="Jalandhar">Jalandhar</option>
+		<option value="Raigad">Raigad</option>
+		<option value="Ooty">Ooty</option>
+		<option value="Faridabad">Faridabad</option>
+		<option value="Goa">Goa</option>
+		<option value="Sonepat">Sonepat</option>
+		<option value="Solan">Solan</option>
+		<option value="Karnal">Karnal</option>
+    </select>
+  
+    <input type="submit" value="Submit">
+  </form>
+</div>
+
+
+
+<div class="form">
+  <form action="/agent_update" method="POST">
+  
+    <label for="pid">pid</label>
+    <input type="text" id="pid" name="pid" placeholder="Enter the valid pid..">
+
+    <label for="buy_or_rent">Buy or Rent</label>
+    <select id="option" name="option">
+      <option value="buy">Buy House</option>
+      <option value="rent">Rent House</option>
+    </select>
+
+    <select id="aid" name="aid" style="display: none">
+      <option value=<%= data.aid %>> selected></option>
+    </select>
+
+    <% if (data.isError && data.print) { %>
+		<p class="fail"> Incorrect entry </p>
+	<% } else if (data.print && !data.isError) { %>
+		<p class="success"> <%= data.pid %> successfully <%= data.pStatus %> </p>
+	<% } %>
+  
+    <input type="submit" value="Confirm">
+  </form>
+</div>
+</div>
+
+</body>
+</html>

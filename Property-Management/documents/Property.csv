@@ -1,0 +1,1675 @@
+pid,city,address,price,rent,area,bedrooms
+101,Jamshedpur,Dimna Road,2980000,7450,900,2
+102,Jamshedpur,Kadma,5800000,14500,1200,2
+103,Jamshedpur,Mango,2735000,6837,820,2
+104,Jamshedpur,adityapur,5800000,14500,1440,3
+105,Jamshedpur,Sonari,3950000,9875,1300,3
+106,Jamshedpur,Ramnagar,3700000,9250,1300,3
+107,Jamshedpur,Adarsh Nagar,2500000,6250,1050,2
+108,Jamshedpur,Sonari,5200000,13000,1250,3
+109,Jamshedpur,Mango,2200000,5500,740,2
+110,Jamshedpur,Mango,2799900,6999,850,2
+111,Jamshedpur,Mango,2950000,7375,900,2
+112,Jamshedpur,Sonari,3800000,9500,1057,2
+113,Jamshedpur,Dimna,4000000,10000,1389,3
+114,Jamshedpur,Jamshedpur Ranchi Road,7500000,18750,2240,3
+115,Jamshedpur,adityapur,4110000,10275,1270,3
+116,Jamshedpur,Adityapur Chaibasa Road,2650000,6625,780,2
+117,Jamshedpur,Golmuri,3100000,7750,850,3
+118,Jamshedpur,Bistupur,5200000,13000,1245,2
+119,Jamshedpur,Kadma,4000000,10000,1070,3
+120,Jamshedpur,Uliyan,2975000,7437,850,2
+301,Kanpur,Saket nagar,6200000,15500,1450,3
+302,Kanpur,Shyam Nagar,3500000,8750,1090,2
+303,Kanpur,Shyam Nagar,3550000,8875,1090,2
+304,Kanpur,Keshav Nagar,4200000,10500,1050,2
+305,Kanpur,Kakadev,2900000,7250,1000,2
+306,Kanpur,Kalyanpur,3300000,8250,1250,2
+307,Kanpur,Lajpat Nagar,3300000,8250,1000,2
+308,Kanpur,Swaroop Nagar,3600000,9000,1050,2
+310,Kanpur,Civil Lines,5000000,12500,1160,3
+311,Kanpur,Khyora,5500000,13750,1650,3
+312,Kanpur,Pandu Nagar,3300000,8250,1000,2
+313,Kanpur,Kidwai Nagar,4500000,11250,1500,3
+314,Kanpur,Kalyanpur,3100000,7750,1300,2
+315,Kanpur,Swaroop Nagar,9500000,20000,1500,3
+316,Kanpur,Panki B Block,3700000,9250,900,2
+317,Kanpur,Saket nagar,4000000,10000,1150,2
+318,Kanpur,Shastri Nagar,5700000,14250,1050,2
+319,Kanpur,Singhpur,3800000,9500,1150,2
+320,Kanpur,Shyam Nagar,3500000,8750,1100,2
+401,Bareilly,Pilibhit Bypass Road,2350000,5875,950,2
+402,Bareilly,Mahanagar Colony,2340000,5850,950,2
+403,Bareilly,Nainital Road,1500000,3750,720,2
+404,Bareilly,Nainital Road,1700000,4250,720,2
+405,Bareilly,Mahanagar Colony,2350000,5875,746,2
+406,Bareilly,Bareilly Bisalpur Road,3200000,8000,1150,2
+407,Bareilly,Dohra Road,2350000,5875,980,2
+408,Bareilly,Mahanagar Colony,2250000,5625,950,2
+409,Bareilly,Dohara,2250000,5625,950,2
+410,Bareilly,MJP Rohilkahand University,2350000,5875,950,2
+411,Bareilly,Mahanagar Colony,2350000,5875,739,2
+412,Bareilly,Dohra Road,2350000,5875,950,2
+413,Bareilly,Suresh Sharma Nagar,4800000,12000,1245,2
+414,Bareilly,Suresh Sharma Nagar,11000000,20000,2425,5
+416,Bareilly,Civil Lines,7950000,19875,1726,3
+417,Bareilly,Dohra Road,2250000,5625,950,2
+418,Bareilly,Suresh Sharma Nagar,5800000,14500,1545,3
+419,Bareilly,Bareilly Nainital Road,1299000,3247,720,2
+420,Bareilly,Civil Lines,7000000,17500,1390,3
+501,Mangalore,Surathkal,10328000,20000,1870,3
+502,Mangalore,Derebail,4100000,10250,1015,2
+503,Mangalore,Kulshekar,3524500,8811,1007,2
+504,Mangalore,Barebail Road,4000000,10000,1391,2
+505,Mangalore,Bondel,2650000,6625,750,2
+506,Mangalore,Attavar,8573285,20000,1715,3
+507,Mangalore,Nanthoor,3500000,8750,1100,2
+508,Mangalore,Bejai,6600000,16500,1420,3
+509,Mangalore,Derebail,6956000,17390,1331,3
+510,Mangalore,Kavoor,3800000,9500,1100,2
+511,Mangalore,Morgans Gate Road,5000000,12500,1385,3
+512,Mangalore,Shakti Nagar,2300000,5750,700,1
+513,Mangalore,Kankanady,8635000,20000,1570,3
+514,Mangalore,Kadri,6125000,15312,1225,2
+515,Mangalore,Surathkal,4200000,10500,1125,2
+516,Mangalore,Bejai,4300000,10750,945,2
+517,Mangalore,Padavinangady,5200000,13000,1092,2
+518,Mangalore,Mangaluru,5070000,12675,1300,3
+519,Mangalore,Kulshekar,5800000,14500,1650,3
+520,Mangalore,Maroli,4800000,12000,1340,3
+601,Kozhikode,Pottammal,6800000,17000,1136,3
+602,Kozhikode,Velliparamba,5225000,13062,1375,3
+604,Kozhikode,Poovangal,10500000,20000,1878,3
+605,Kozhikode,Paroppadi,8400000,20000,1552,3
+606,Kozhikode,YMCA Cross Rd,15200000,20000,1913,3
+607,Kozhikode,Vellayil,5800000,14500,1883,3
+608,Kozhikode,Koottuli,7500000,18750,1550,3
+609,Kozhikode,Puthiyangadi,7300000,18250,1390,3
+611,Kozhikode,Eranhipalam,10000000,20000,2000,4
+612,Kozhikode,Mankave,12000000,20000,2418,3
+613,Kozhikode,Mankave,6639000,16597,1355,3
+615,Kozhikode,Vellayil,9000000,20000,1690,3
+616,Kozhikode,Poovangal,10000000,20000,1634,3
+617,Kozhikode,Thondayad Bypass,10000000,20000,1800,3
+618,Kozhikode,Vellayil,5000000,12500,1350,2
+619,Kozhikode,Eranhipalam,13500000,20000,2100,3
+620,Kozhikode,Jawahar Nagar,8000000,20000,1510,3
+701,Kochi,Marine Drive,16000000,20000,2750,2
+702,Kochi,Marine Drive,19900000,20000,2483,4
+703,Kochi,Kaloor,7000000,17500,1352,3
+704,Kochi,Eroor,17000000,20000,2349,3
+705,Kochi,Kakkanad,7434000,18585,1595,3
+706,Kochi,Marine Drive,23400000,20000,2931,4
+707,Kochi,Kadavanthra,6600000,16500,1707,3
+708,Kochi,Kakkanad,7000000,17500,1595,3
+709,Kochi,Kaloor,5500000,13750,1325,3
+710,Kochi,Marine Drive,13100000,20000,1885,3
+711,Kochi,Thammanam,5000000,12500,1150,2
+712,Kochi,Kadavanthra,8500000,20000,1310,3
+713,Kochi,Kannankulangara,4575000,11437,1100,2
+714,Kochi,Edappally,5000000,12500,890,2
+715,Kochi,Kakkanad,4900000,12250,1496,3
+716,Kochi,Elamakkara,7500000,18750,1485,3
+717,Kochi,Kaloor,8200000,20000,1700,3
+718,Kochi,Kakkanad,6500000,16250,1387,3
+719,Kochi,Kadavanthra,5900000,14750,1020,2
+720,Kochi,Kadavanthra,8500000,20000,600,3
+801,Coimbatore,Kuniamuthur,2087050,5217,623,2
+802,Coimbatore,Saravanampatty,3522178,8805,894,2
+803,Coimbatore,Saravanampatty,3913200,9783,1087,2
+804,Coimbatore,Villankurichi,2265625,5664,625,1
+805,Coimbatore,Vadavalli,5100000,12750,1275,3
+806,Coimbatore,Villankurichi,3219000,8047,888,2
+807,Coimbatore,Hosur Municipality,2300000,5750,700,1
+808,Coimbatore,Hosur Municipality,4700000,11750,1140,2
+809,Coimbatore,Villankurichi,3230000,8075,891,2
+810,Coimbatore,Selvapuram,5030000,12575,1264,2
+811,Coimbatore,Trichy Road,20600000,20000,2240,3
+812,Coimbatore,Hosur Municipality,11000000,20000,1500,3
+813,Coimbatore,Singanallur,8397000,20000,1866,3
+814,Coimbatore,Saravanampatty,4104544,10261,1092,2
+815,Coimbatore,Hosur Municipality,3000000,7500,900,1
+816,Coimbatore,Gopalapuram,23900000,20000,2076,3
+817,Coimbatore,Singanallur,7708500,19271,1713,3
+819,Coimbatore,Selvapuram,4175000,10437,1049,2
+820,Coimbatore,Race Course,33000000,20000,2870,3
+901,Varanasi,Paharia,3200008,8000,850,2
+902,Varanasi,Shivpur,5000000,12500,1700,5
+904,Varanasi,Chitaipur,4800000,12000,1020,2
+905,Varanasi,Bhojuveer,3200000,8000,900,2
+906,Varanasi,Paharia,3200000,8000,850,2
+907,Varanasi,Chaurhat,3123550,7808,895,2
+908,Varanasi,Ashapur Chuaraha,2800000,7000,824,2
+909,Varanasi,Sigra,4700000,11750,1050,2
+910,Varanasi,Ganesh Dham Colony Sunderpur,6600000,16500,1409,3
+911,Varanasi,Shivpur,4349020,10872,1158,3
+912,Varanasi,Sunderpur,5500000,13750,1186,2
+913,Varanasi,Club Road,3944000,9860,832,2
+914,Varanasi,Mahmoorganj,4800000,12000,928,2
+915,Varanasi,Shivpur Railway Crossing,5000000,12500,1700,5
+916,Varanasi,Manduwadih,6600000,16500,1360,3
+917,Varanasi,Sunderpur,3600000,9000,911,2
+918,Varanasi,Paharia,6000000,15000,1213,3
+919,Varanasi,Pandeypur,2500000,6250,600,1
+920,Varanasi,Sarnath,6500000,16250,1468,3
+1001,Amritsar,Holy City Paradise,20000000,20000,1500,2
+1002,Amritsar,Golden Temple Road,500000,1250,900,2
+1003,Amritsar,Dream City,36000000,20000,6500,15
+1004,Amritsar,New Partap Nagar,6200000,15500,1620,4
+1005,Amritsar,G T Road,5500000,13750,2400,4
+1006,Amritsar,Fateh Garh Churian Road,16000000,20000,4800,5
+1007,Amritsar,Amritsar,11000000,20000,2250,5
+1008,Amritsar,G T Road,4550000,11375,1500,3
+1009,Amritsar,New Partap Nagar,6000000,15000,1089,4
+1010,Amritsar,Gagan Colony,400000000,20000,6500,15
+1011,Amritsar,Meerankot Road,5500000,13750,2400,4
+1012,Amritsar,Amritsar By Pass Road,25000000,20000,4000,4
+1013,Amritsar,Amritsar By Pass Road,8900000,20000,2100,3
+1014,Amritsar,Cheharta,3500000,8750,1593,4
+1016,Amritsar,Loharka road,5500000,13750,2400,4
+1017,Amritsar,Mirankot Road,5500000,13750,2500,4
+1018,Amritsar,Fateh Garh Churian Road,4500000,11250,960,2
+1019,Amritsar,Rani Ka Bagh,15000000,20000,1350,4
+1020,Amritsar,Khazana Gate Chowk,2500000,6250,1089,3
+1021,Amritsar,Mahal,5500000,13750,1260,4
+1022,Amritsar,Loharka road,5500000,13750,2500,4
+1101,Puri,Bata Mangala,2067700,5169,713,1
+1102,Puri,Bata Mangala,1296000,3240,405,1
+1103,Puri,Bata Mangala,1950000,4875,505,1
+1105,Puri,Bata Mangala,2067000,5167,713,1
+1106,Puri,Lokanath Road,1500000,3750,300,1
+1107,Puri,Lokanath Road,1250000,3125,350,1
+1108,Puri,Bata Mangala,1396000,3490,405,1
+1109,Puri,Lokanath Road,1450000,3625,300,1
+1112,Puri,Lokanath Road,1250000,3125,300,1
+1113,Puri,Lokanath Road,1300000,3250,300,1
+1117,Puri,Lokanath Road,1249620,3124,590,1
+1118,Puri,Baliapanda Road,1300000,3250,350,1
+1119,Puri,Lokanath Road,1300000,3250,350,1
+1120,Puri,Lokanath Road,1295000,3237,350,1
+1201,Vadodara,Vasana Bhayli Road,7997832,19994,2428,3
+1202,Vadodara,Bhayli,7000000,17500,2000,3
+1203,Vadodara,Makarpura,2417007,6042,717,2
+1204,Vadodara,Waghodia,3100320,7750,1440,2
+1205,Vadodara,Harni,14920674,20000,2190,4
+1206,Vadodara,Harni,3550272,8875,902,3
+1207,Vadodara,Sama,2974985,7437,915,2
+1208,Vadodara,Ankodiya,4300000,10750,1550,3
+1209,Vadodara,Bhaili,2400000,6000,1080,1
+1210,Vadodara,Gotri Road,2600000,6500,660,1
+1211,Vadodara,Karelibagh,5500000,13750,1700,3
+1212,Vadodara,Vemali,1925000,4812,642,2
+1213,Vadodara,Alkapuri,20000000,20000,5500,4
+1214,Vadodara,Atladara,2600000,6500,1745,2
+1215,Vadodara,Vasana Bhayli Road,6120000,15300,2040,3
+1216,Vadodara,Sama,3055812,7639,940,2
+1217,Vadodara,Harni,2549610,6374,665,2
+1218,Vadodara,Harni,19058209,20000,2797,4
+1219,Vadodara,Bhayli,7200000,18000,2040,3
+1220,Vadodara,Makarpura,3120336,7800,932,3
+1301,Vellore,sainathapuram,20000000,20000,3400,4
+1305,Vellore,katpadi,1500000,3750,650,1
+1306,Vellore,katpadi,3500000,8750,1200,2
+1317,Vellore,Konavattam,1800000,4500,2299,2
+1401,Anand,V V Nagar,3200000,8000,945,2
+1402,Anand,Karamsad Vidyanagar Road,2500000,6250,819,2
+1403,Anand,Vallabh Vidhyanagar,2350000,5875,600,2
+1404,Anand,Anand Sojitra Road,4984000,12460,2167,3
+1405,Anand,Karamsad Vidyanagar Road,3600000,9000,1650,3
+1406,Anand,Lambhvel Road,2300000,5750,900,2
+1407,Anand,Karamsad,3000000,7500,1250,2
+1408,Anand,Vidhyanagar Karmasad Road,3475000,8687,1650,3
+1409,Anand,Sardar Ganj,1800000,4500,964,2
+1410,Anand,Anand Sojitra Road,4984100,12460,2167,3
+1411,Anand,Vallabh Vidhyanagar,1950000,4875,700,2
+1412,Anand,Lambhvel Road,9500000,20000,5200,3
+1413,Anand,Bakrol Road,9000000,20000,4500,3
+1414,Anand,Anand Sojitra Road,2600000,6500,900,2
+1415,Anand,Vallabh Vidhyanagar,2500000,6250,1100,2
+1417,Anand,Vallabh Vidhyanagar,2450000,6125,1107,2
+1418,Anand,Lambhvel,1700000,4250,722,1
+1419,Anand,Ganesh Chokdi,5500000,13750,2900,4
+1420,Anand,Karamsad,1075000,2687,415,1
+1501,Nainital,Bhowali,2880000,7200,960,1
+1502,Nainital,Bhowali,1990000,4975,580,1
+1503,Nainital,Tallital,3900000,9750,876,1
+1504,Nainital,Mukteshwar,1746000,4365,388,1
+1505,Nainital,Bhowali,2600000,6500,900,1
+1507,Nainital,Bhowali,1800000,4500,580,1
+1508,Nainital,Bhowali,2275000,5687,720,1
+1510,Nainital,Bhowali,3500000,8750,1000,2
+1511,Nainital,Mukteshwar,3487500,8718,775,1
+1512,Nainital,Bhowali,5800000,14500,1560,2
+1513,Nainital,Near Mukteshwar,2150000,5375,415,1
+1515,Nainital,Mukteshwar,1200000,3000,520,1
+1517,Nainital,Bhowali,2250000,5625,625,1
+1518,Nainital,Amritpur,2000000,5000,720,1
+1601,Alwar,Tapukara,1400000,3500,750,2
+1602,Alwar,Alwar,2000000,5000,180,1
+1603,Alwar,Indira Colony,5304000,13260,1326,2
+1604,Alwar,Chirkhana,875000,2187,550,1
+1605,Alwar,Tapukara,1600000,4000,600,2
+1606,Alwar,Indira Colony,6776000,16940,1694,3
+1607,Alwar,Ramgarh Road,1270000,3175,550,2
+1608,Alwar,Indira Colony,5332000,13330,1333,2
+1609,Alwar,Indira Colony,7088000,17720,1772,3
+1610,Alwar,Indira Colony,6464000,16160,1616,3
+1611,Alwar,Indira Colony,9704000,20000,2426,4
+1701,Siliguri,Champasari,2049100,5122,661,1
+1702,Siliguri,Champasari,2783800,6959,898,2
+1703,Siliguri,Burdwan Road,2681100,6702,993,2
+1704,Siliguri,Ranidanga,2283100,5707,1156,3
+1705,Siliguri,Champasari,3120000,7800,1175,3
+1706,Siliguri,Champasari,3459600,8649,1116,3
+1708,Siliguri,Ranidanga,3002400,7506,1251,3
+1709,Siliguri,Sushrata Nagar,2580000,6450,933,2
+1710,Siliguri,Matigara,3491800,8729,1340,3
+1711,Siliguri,Champasari,2500000,6250,891,2
+1712,Siliguri,Champasari,2667000,6667,889,2
+1713,Siliguri,Burdwan Road,4148000,10370,1360,3
+1714,Siliguri,Matigara,3754100,9385,1157,3
+1715,Siliguri,Pradhan Nagar,4596100,11490,1121,2
+1716,Siliguri,Punjabi Para,5425000,13562,1550,3
+1717,Siliguri,Sevoke Road,4984000,12460,1424,3
+1718,Siliguri,Champasari,2904700,7261,937,2
+1719,Siliguri,Zilla Parishad Road,3150000,7875,1125,2
+1720,Siliguri,Uttorayon Township,16000000,20000,2400,4
+1801,Gulbarga,Maktampura,3200000,8000,1007,2
+1802,Gulbarga,Maktampura,2800000,7000,1007,2
+1803,Gulbarga,Santraswadi,2300000,5750,1100,2
+1805,Gulbarga,Iqbal Colony,5500000,13750,1500,3
+1901,Thrissur,Mannuthy,2285320,5713,760,2
+1902,Thrissur,Guruvayoor,3674000,9185,668,2
+1903,Thrissur,Patturaikkal,7333100,18332,1220,2
+1904,Thrissur,Guruvayoor,2800000,7000,750,1
+1905,Thrissur,Chettupuzha,3897000,9742,1299,3
+1906,Thrissur,West Nada,3115000,7787,720,2
+1907,Thrissur,Marath Lane,5000000,12500,942,2
+1908,Thrissur,Pandikkavu,5800000,14500,1175,2
+1909,Thrissur,Marath Lane,4500000,11250,942,2
+1910,Thrissur,Patturaikkal,5800000,14500,1900,3
+1911,Thrissur,Guruvayoor,1800000,4500,640,1
+1912,Thrissur,Guruvayur Road,2300000,5750,560,1
+1913,Thrissur,Viyyoor,7232000,18080,1607,3
+1914,Thrissur,Puzhakkal,24000000,20000,3500,4
+1915,Thrissur,Viyyoor,5000000,12500,1500,2
+1916,Thrissur,Guruvayoor,1400000,3500,650,1
+1917,Thrissur,Guruvayoor,3000000,7500,651,1
+1918,Thrissur,Cheroor,4100000,10250,1220,3
+1919,Thrissur,Guruvayoor,1800000,4500,450,1
+1920,Thrissur,Thrissur Shoranur Road,10000000,20000,1864,3
+2005,Krishna,Residential HouseKankipadu,3400000,8500,1367,2
+2009,Krishna,Bandar Road,8500000,20000,1500,5
+2101,Jhansi,Awas Vikas Nagar,3500000,8750,1100,3
+2102,Jhansi,Deen Dayal Nagar,8000000,20000,1800,4
+2104,Jhansi,Panchkuiyan,31000000,20000,1500,5
+2107,Jhansi,Hansari,7500000,18750,1560,4
+2108,Jhansi,Lahargird,3400000,8500,900,3
+2109,Jhansi,Kochha Bhanwar Road,2550000,6375,1250,2
+2111,Jhansi,Rajghat Colony,3400000,8500,900,3
+2113,Jhansi,Hansari,2500000,6250,450,1
+2114,Jhansi,Shivaji Nagar,5000000,12500,960,3
+2115,Jhansi,Mashia Ganj,6840000,17100,3600,9
+2116,Jhansi,Lahargird,3500000,8750,1100,3
+2117,Jhansi,Sipri Bazar,2000000,5000,1080,2
+2118,Jhansi,Deen Dayal Nagar,7800000,19500,1800,4
+2201,Mehsana,Punit Nagar,3200000,8000,600,2
+2202,Mehsana,Radhanpur Road,6500000,16250,2500,4
+2203,Mehsana,Radhanpur Road,1800000,4500,738,3
+2204,Mehsana,Vijapur Visnagar Road,2400000,6000,3000,4
+2206,Mehsana,Visnagar Road,3500000,8750,2045,3
+2208,Mehsana,Radhanpur Road,6000000,15000,1250,3
+2209,Mehsana,Vijapur Visnagar Road,1100000,2750,1615,3
+2210,Mehsana,Radhanpur Road,6500000,16250,4500,4
+2211,Mehsana,Punit Nagar,1250000,3125,450,2
+2301,Bulandshahr,Bulandshahr Road,700000,1750,540,2
+2302,Bulandshahr,Bulandshahr Syana Road,700000,1750,562,2
+2303,Bulandshahr,Bulandshahr Road,700000,1750,650,2
+2304,Bulandshahr,Bulandshahr Syana Road,1000000,2500,402,2
+2309,Bulandshahr,Bulandshahr Road,7500000,18750,1800,4
+2314,Bulandshahr,Awas Vikas Colony,2800000,7000,2250,4
+2321,Bulandshahr,Yamunapuram,3800000,9500,2150,4
+2401,Tirunelveli,NGO Colony,5600000,14000,1400,3
+2402,Tirunelveli,Perumalpuram,5623000,14057,1400,3
+2403,Tirunelveli,Tirunelveli Road,5600000,14000,1400,3
+2404,Tirunelveli,Perumalpuram,5650000,14125,1400,3
+2406,Tirunelveli,Palayamkottai,3732000,9330,910,2
+2407,Tirunelveli,Ngo A Colony,5300000,13250,1400,3
+2408,Tirunelveli,Tirunelveli Road,5325000,13312,1400,3
+2410,Tirunelveli,NGO Colony,5321000,13302,1400,3
+2411,Tirunelveli,Palayamkottai,3731000,9327,919,2
+2412,Tirunelveli,Perumalpuram,5600000,14000,1315,3
+2413,Tirunelveli,Ngo A Colony,5650000,14125,1400,3
+2414,Tirunelveli,NGO Colony,5650000,14125,1400,3
+2415,Tirunelveli,Perumalpuram,5350000,13375,1400,3
+2416,Tirunelveli,Perumalpuram,7523000,18807,1500,3
+2418,Tirunelveli,Tirunelveli Road,5310000,13275,1400,3
+2420,Tirunelveli,Perumalpuram,5320000,13300,1400,3
+2501,Ahmedabad,Memnagar,30958884,20000,4691,4
+2502,Ahmedabad,Bopal,4464000,11160,1440,3
+2503,Ahmedabad,Navrangpura,15624000,20000,2232,3
+2504,Ahmedabad,Vastrapur,16907400,20000,2727,4
+2505,Ahmedabad,Ambavadi,12226500,20000,2223,3
+2506,Ahmedabad,Bopal,4176000,10440,1305,2
+2507,Ahmedabad,Bopal,3690720,9226,1440,3
+2508,Ahmedabad,Prahlad Nagar,4499990,11249,1210,2
+2509,Ahmedabad,Chandkheda,3400000,8500,621,2
+2510,Ahmedabad,Vatva,971856,2429,612,1
+2511,Ahmedabad,Narolgam,1951000,4877,837,2
+2512,Ahmedabad,Near Nirma University On SG Highway,5840994,14602,838,2
+2513,Ahmedabad,Near Nirma University On SG Highway,4101500,10253,1262,2
+2514,Ahmedabad,Bopal,3895000,9737,820,3
+2515,Ahmedabad,Chandkheda,4300000,10750,1602,2
+2516,Ahmedabad,Jodhpur Village,13100000,20000,1854,3
+2517,Ahmedabad,Paldi,11535588,20000,1854,3
+2518,Ahmedabad,Ghatlodiya,6200000,15500,1323,2
+2519,Ahmedabad,Prahlad Nagar,16000000,20000,2700,4
+2520,Ahmedabad,Bopal,5500000,13750,1215,2
+2601,Shimla,Bharari,4400000,11000,615,1
+2602,Shimla,Bharari,4500000,11250,615,1
+2603,Shimla,Mashobra Moolkoti Road,3300000,8250,910,1
+2605,Shimla,Mashobra Moolkoti Road,3000000,7500,755,1
+2606,Shimla,Mashobra Moolkoti Road,3200000,8000,755,1
+2607,Shimla,Mashobra Moolkoti Road,3100000,7750,755,1
+2610,Shimla,Chail Road,21600000,20000,2000,4
+2611,Shimla,Mashobra Moolkoti Road,3400000,8500,755,1
+2612,Shimla,Bharari,7600000,19000,1476,2
+2613,Shimla,Mashobra Moolkoti Road,5200000,13000,1520,2
+2614,Shimla,Shimla Bypass,3200000,8000,600,1
+2615,Shimla,Taradevi Road,4500000,11250,900,2
+2616,Shimla,Bharari,7400000,18500,1000,2
+2617,Shimla,Mashobra Moolkoti Road,3150000,7875,755,1
+2618,Shimla,Bharari,7400000,18500,1300,2
+2619,Shimla,Dudhli,3500000,8750,800,2
+2620,Shimla,Shimla Bypass,5100000,12750,980,2
+2701,Tirupati,New Balaji Colony,4800000,12000,1170,2
+2702,Tirupati,SV Auto Nagar,2800000,7000,3000,2
+2703,Tirupati,Korramenugunta,4781000,11952,1366,3
+2704,Tirupati,Korramenugunta,5187000,12967,1482,3
+2705,Tirupati,Tiruchanur,3475000,8687,1285,2
+2706,Tirupati,Korramenugunta,4704000,11760,1344,3
+2707,Tirupati,Renigunta Road,5000000,12500,1260,3
+2708,Tirupati,Renigunta Road,4864000,12160,1280,2
+2709,Tirupati,Tiruchanur,5550000,13875,1300,2
+2710,Tirupati,Tiruchanur,4499836,11249,1364,3
+2711,Tirupati,Bairagi patteda,6500000,16250,1300,2
+2712,Tirupati,Subbareddy Nagar,5500000,13750,1400,3
+2713,Tirupati,Renigunta Road,4500000,11250,1230,2
+2715,Tirupati,Renigunta Road,2500000,6250,1050,2
+2716,Tirupati,Renigunta Road,3500000,8750,1285,2
+2717,Tirupati,Settipalli,2500000,6250,1050,2
+2718,Tirupati,Renigunta Road,3500000,8750,1250,2
+2719,Tirupati,Renigunta Road,3570000,8925,1230,2
+2801,Valsad,Gunjan Road,2800000,7000,1150,2
+2802,Valsad,Pardi Sandhpor,1600000,4000,1275,2
+2803,Valsad,Chala,3100000,7750,1300,2
+2804,Valsad,Chala,3100000,7750,1250,2
+2805,Valsad,Gunjan,1800000,4500,700,1
+2806,Valsad,Abrama,1800000,4500,890,2
+2807,Valsad,Umargam,2300000,5750,1085,2
+2808,Valsad,Chala,3400000,8500,1310,2
+2809,Valsad,Daman Rd,3500000,8750,1260,2
+2810,Valsad,Vapi,2500000,6250,1150,2
+2811,Valsad,Vapi,4300000,10750,1800,3
+2812,Valsad,Chala,2673000,6682,1188,2
+2813,Valsad,Charvada Road,1600000,4000,740,1
+2814,Valsad,Chala,2351000,5877,1150,2
+2815,Valsad,Valsad,4051000,10127,1700,3
+2816,Valsad,Halar Road,2150000,5375,810,2
+2817,Valsad,Mograwadi,1150000,2875,650,1
+2818,Valsad,Chala,3500000,8750,1260,2
+2819,Valsad,Vapi Koparli Road,1350000,3375,705,1
+2820,Valsad,Chala,3000000,7500,1375,2
+2901,Solapur,Pandharpur,2500000,6250,610,1
+2902,Solapur,Jule,8250000,20000,1250,2
+2903,Solapur,Jule,4488000,11220,750,2
+2904,Solapur,Sangola,1500000,3750,600,1
+2905,Solapur,Tilak Chowk,8500000,20000,1171,2
+2906,Solapur,Jule,4130000,10325,1100,2
+2907,Solapur,Bhawani Peth,8500000,20000,1617,3
+2908,Solapur,Ashok Nagar,2800000,7000,1000,2
+2909,Solapur,Vijay Deshmukh Nagar,6500000,16250,1400,2
+2911,Solapur,Vasant Vihar,4500000,11250,1491,3
+2913,Solapur,Rajaswa Nagar,2400000,6000,850,3
+2918,Solapur,Jule,4600000,11500,850,3
+2921,Solapur,Jule,4500000,11250,1200,3
+2922,Solapur,Jule,3000000,7500,990,1
+2923,Solapur,Rangraj Nagar,6000000,15000,950,1
+2924,Solapur,Rangraj Nagar,6000000,15000,950,2
+2925,Solapur,Rajaswa Nagar,4500000,11250,1600,4
+3001,Ranchi,Bariatu,4045000,10112,1135,1
+3002,Ranchi,Bariatu,7447000,18617,2166,3
+3003,Ranchi,Namkum,3755000,9387,946,1
+3004,Ranchi,Oyna,4452000,11130,1590,3
+3005,Ranchi,Lalpur,3200000,8000,1600,3
+3006,Ranchi,Argora,5618572,14046,1476,3
+3007,Ranchi,Bariatu,6166000,15415,1619,3
+3008,Ranchi,Nayatoli,5748000,14370,1435,3
+3009,Ranchi,Hesag,5817000,14542,1226,3
+3010,Ranchi,Namkum Road,5000000,12500,6600,4
+3011,Ranchi,Morabadi,6200000,15500,1740,3
+3012,Ranchi,BIT Mesra Road,4000000,10000,1590,3
+3013,Ranchi,Amethiya Nagar Road,4700000,11750,1560,3
+3014,Ranchi,Morabadi,4830000,12075,1380,3
+3015,Ranchi,Morabadi,3824600,9561,2600,3
+3016,Ranchi,Bargain Village,5786000,14465,1787,3
+3017,Ranchi,Bariatu Road,5500000,13750,1290,3
+3018,Ranchi,Patel Nagar,5100000,12750,1121,2
+3019,Ranchi,Upper Bazar,5565000,13912,1590,3
+3020,Ranchi,Singh More,2858200,7145,922,2
+3101,Ludhiana,Dad Village,4200000,10500,840,2
+3102,Ludhiana,Dad Village,5500000,13750,1085,2
+3103,Ludhiana,Dad Village,5200000,13000,1190,2
+3104,Ludhiana,Sidhwan Canal Road,6000000,15000,1280,2
+3105,Ludhiana,Deatwal,8012500,20000,1700,3
+3106,Ludhiana,Mundian Khurd,3290000,8225,984,2
+3107,Ludhiana,Dad Village,8300000,20000,1800,3
+3108,Ludhiana,Dad Village,5000000,12500,1080,2
+3109,Ludhiana,Dad Village,3100000,7750,560,1
+3110,Ludhiana,Bhanohad,8138636,20000,2226,3
+3111,Ludhiana,Dad Village,8800000,20000,2170,4
+3112,Ludhiana,Dad Village,8700000,20000,1765,3
+3113,Ludhiana,Dad Village,4951080,12377,1190,2
+3114,Ludhiana,Pakhowal road,4950000,12375,1080,2
+3115,Ludhiana,Bhanohad,8138638,20000,2226,3
+3116,Ludhiana,Dad Village,11700000,20000,4276,4
+3117,Ludhiana,Dad Village,5000000,12500,1500,2
+3118,Ludhiana,Passi Nagar,10365000,20000,1728,3
+3119,Ludhiana,Dad Village,6200000,15500,1560,3
+3120,Ludhiana,Sidhwan Canal Road,9700000,20000,2700,4
+3201,Nashik,Deolali Gaon,1990000,4975,640,1
+3202,Nashik,Datta Nagar,1651000,4127,446,1
+3203,Nashik,Girnare,1650000,4125,443,1
+3204,Nashik,Panchavati,4451000,11127,1070,2
+3205,Nashik,Pathardi Phata,5900000,14750,1100,2
+3206,Nashik,Indira Nagar,5500000,13750,1348,3
+3207,Nashik,Indira Nagar,3400000,8500,1000,2
+3208,Nashik,Govind Nagar,5600000,14000,1290,3
+3209,Nashik,Panchavati,4212000,10530,1080,2
+3210,Nashik,Palase,1521000,3802,585,1
+3211,Nashik,Pathardi Phata,2150000,5375,600,1
+3212,Nashik,Indira Nagar,2900000,7250,920,2
+3213,Nashik,Pathardi Phata,3200000,8000,965,2
+3214,Nashik,Makhmalabad,1800000,4500,770,1
+3215,Nashik,Indira Nagar,5624550,14061,1293,2
+3216,Nashik,Jail Road,3600000,9000,1014,2
+3217,Nashik,Parijat Nagar,15000000,20000,2900,4
+3218,Nashik,Panchavati,5300000,13250,1236,3
+3219,Nashik,Khode Mala,3500000,8750,842,2
+3220,Nashik,Kathe Lane,3400000,8500,1100,2
+3301,Trichy,KK Nagar,22234500,20000,1647,2
+3302,Trichy,KK Nagar,15000000,20000,1350,3
+3303,Trichy,Thennur,10874500,20000,1673,3
+3304,Trichy,Thennur,12000000,20000,2096,3
+3305,Trichy,KK Nagar,16315000,20000,1255,3
+3306,Trichy,KK Nagar,17600000,20000,1760,3
+3307,Trichy,KK Nagar,7500000,18750,863,2
+3308,Trichy,Edamalaipatti Pudur,7290000,18225,1420,2
+3309,Trichy,KK Nagar,12600000,20000,1015,2
+3310,Trichy,Cantonment,5999070,14997,1078,2
+3311,Trichy,KK Nagar,16250000,20000,1250,2
+3313,Trichy,KK Nagar,11800000,20000,948,2
+3314,Trichy,KK Nagar,25900000,20000,2220,3
+3316,Trichy,KK Nagar,6675000,16687,890,1
+3317,Trichy,Edamalaipatti Pudur,7161600,17904,1492,3
+3319,Trichy,KK Nagar,13500000,20000,1350,3
+3320,Trichy,KK Nagar,7350000,18375,980,1
+3401,Jabalpur,Residential FlatSagda,2200000,5500,657,2
+3402,Jabalpur,Tilhari,3400000,8500,1400,3
+3403,Jabalpur,Bargi Hills,1800000,4500,600,1
+3404,Jabalpur,Bargi Hills,1800000,4500,900,2
+3406,Jabalpur,Napier Town,4000000,10000,800,2
+3407,Jabalpur,Sneh Nagar,3500000,8750,220,1
+3408,Jabalpur,Ganjipura,3000000,7500,568,1
+3409,Jabalpur,Dhanwantari Nagar,4251000,10627,1551,3
+3411,Jabalpur,Narmada Road,500000,1250,1400,3
+3412,Jabalpur,Wright Town,4500000,11250,875,2
+3413,Jabalpur,Sagra,2500000,6250,850,2
+3414,Jabalpur,Gwarighat,2100000,5250,950,2
+3415,Jabalpur,Napier Town,7000000,17500,1800,3
+3416,Jabalpur,Gorakhpur,8500000,20000,1600,3
+3417,Jabalpur,Gorakhpur,8000000,20000,1400,3
+3501,Nagpur,Manewada,3300000,8250,1000,2
+3502,Nagpur,Dhantoli,9000000,20000,1383,3
+3503,Nagpur,Wardhaman Nagar,12252575,20000,1569,5
+3504,Nagpur,New Khapri,3500000,8750,846,2
+3505,Nagpur,Pratap Nagar,4234526,10586,602,2
+3506,Nagpur,New Khapri,4200000,10500,1150,2
+3507,Nagpur,Gotal Pajri,1753000,4382,762,2
+3508,Nagpur,Wathoda,3022500,7556,930,2
+3510,Nagpur,Wathoda,2973793,7434,915,2
+3511,Nagpur,Gotal Pajri,1752000,4380,762,2
+3512,Nagpur,Godhni,2200000,5500,1050,2
+3513,Nagpur,Jamtha,1999999,4999,980,2
+3514,Nagpur,Nari Village,2329423,5823,492,2
+3515,Nagpur,Besa,2500000,6250,979,2
+3516,Nagpur,Manewada,4197800,10494,1390,3
+3517,Nagpur,Besa,2500000,6250,1076,2
+3518,Nagpur,Mihan,1900000,4750,805,2
+3519,Nagpur,Manewada,3390000,8475,1101,2
+3520,Nagpur,Manewada,4299000,10747,1390,3
+3601,Pondicherry,Mudaliarpet,3200000,8000,1200,2
+3602,Pondicherry,Rainbow Nagar,5500000,13750,1050,2
+3603,Pondicherry,Saint Theresa Street,9547500,20000,1273,2
+3604,Pondicherry,Lawspet,2640000,6600,1000,2
+3605,Pondicherry,Rainbow Nagar,3000000,7500,500,1
+3607,Pondicherry,ECR Road,1850000,4625,625,1
+3608,Pondicherry,Pinnachikuppam,6500000,16250,1800,2
+3609,Pondicherry,Colas Nagar,16000000,20000,2400,4
+3610,Pondicherry,Pondicherry Cuddalore Road,5600000,14000,1880,3
+3611,Pondicherry,Koodapakkam Road,1800000,4500,700,2
+3615,Pondicherry,Ariyankuppam,5600000,14000,1880,3
+3617,Pondicherry,White Town,54000000,20000,3346,4
+3620,Pondicherry,Murungapakkam,4950000,12375,1200,2
+3621,Pondicherry,Reddiarpalayam,15000000,20000,3800,6
+3622,Pondicherry,Pondicherry Cuddalore Road,8900000,20000,2119,6
+3624,Pondicherry,Lawspet,4000000,10000,1550,2
+3701,Pune,Alandi,2557144,6392,466,1
+3702,Pune,Undri,2939000,7347,502,1
+3703,Pune,Ravet,6257977,15644,757,2
+3704,Pune,Hinjewadi,3600000,9000,366,1
+3705,Pune,NIBM Annex Mohammadwadi,10999999,20000,1153,3
+3706,Pune,Wagholi,3100000,7750,478,1
+3707,Pune,Bavdhan,10761000,20000,1021,3
+3708,Pune,Wagholi,4600000,11500,758,2
+3709,Pune,Ravet,6446919,16117,764,2
+3710,Pune,Sus,4549497,11373,612,2
+3711,Pune,Chakan,1990931,4977,346,1
+3712,Pune,Alandi,2502198,6255,362,1
+3713,Pune,Tathawade,5150000,12875,700,2
+3714,Pune,Vadgaon Budruk,12800000,20000,1010,2
+3715,Pune,Alandi,1800000,4500,435,1
+3716,Pune,Varale,2187752,5469,429,1
+3717,Pune,Manjari,6138319,15345,598,2
+3718,Pune,Alandi,2707960,6769,477,1
+3719,Pune,Bavdhan,9095865,20000,966,3
+3720,Pune,Chinchwad,34893904,20000,3005,4
+3801,Moradabad,Sector 4 New Moradabad,3000000,7500,1005,2
+3802,Moradabad,New Moradabad,4500000,11250,1681,3
+3803,Moradabad,Jigar Colony,3600000,9000,915,3
+3804,Moradabad,Deen Dayal Nagar,4000000,10000,600,2
+3805,Moradabad,Jigar Colony,7500000,18750,1668,3
+3806,Moradabad,Moradabad Road,2900000,7250,1290,2
+3807,Moradabad,Moradabad Road,3000000,7500,1084,2
+3808,Moradabad,Deen Dayal Nagar,2200000,5500,600,2
+3809,Moradabad,Kundarki Dingarpur Road,4800000,12000,1300,3
+3810,Moradabad,Buddhi Vihar,3500000,8750,430,1
+3812,Moradabad,Moradabad Road,6000000,15000,1295,2
+3813,Moradabad,Kanth Road,3500000,8750,1100,2
+3814,Moradabad,Delhi Road,12500000,20000,1290,3
+3815,Moradabad,New Moradabad,3000000,7500,1084,2
+3816,Moradabad,Kanth Road,4000000,10000,1300,2
+3817,Moradabad,Imli Wali Gali,4000000,10000,1300,2
+3818,Moradabad,Ram Ganga Vihar,14500000,20000,2258,5
+3819,Moradabad,Kanth Road,4500000,11250,1100,2
+3820,Moradabad,Moradabad Road,14000000,20000,3200,6
+3901,Bhopal,TT Nagar,1120000,2800,660,2
+3902,Bhopal,Kolar Road,1284683,3211,545,2
+3903,Bhopal,Ayodhya By Pass,4100000,10250,3850,3
+3904,Bhopal,Awadhpuri,3000000,7500,1100,3
+3905,Bhopal,Kolar Road,1850000,4625,1000,2
+3906,Bhopal,Kolar Road,2500000,6250,1250,3
+3907,Bhopal,Bawaria Kalan,7000000,17500,2335,4
+3908,Bhopal,Jatkhedi,3590000,8975,1882,3
+3909,Bhopal,Jatkhedi,3600000,9000,1800,3
+3910,Bhopal,Danishkunj,2700000,6750,1250,3
+3911,Bhopal,Bagmugalia,2200000,5500,1000,2
+3913,Bhopal,Shahpura,4600000,11500,1700,3
+3914,Bhopal,Arera Colony,2000000,5000,980,2
+3915,Bhopal,Bawadiya Kalan Rohit Nagar,3100000,7750,1265,2
+3916,Bhopal,Awadhpuri,1650000,4125,650,2
+3917,Bhopal,Danish Hills Housing Colony,2500000,6250,1017,2
+3918,Bhopal,Bagmugalia,1800000,4500,790,2
+3919,Bhopal,Mandideep Industrial Area,1100000,2750,800,2
+3920,Bhopal,Danishkunj,1875000,4687,885,2
+4001,Ghaziabad,Indraprastha Yojna,4159375,10398,1375,3
+4002,Ghaziabad,Crossing Republik,3130386,7825,1022,2
+4003,Ghaziabad,Sector 2B Vasundhara,7689465,19223,1545,3
+4005,Ghaziabad,Raj Nagar Extension,7577600,18944,2560,4
+4006,Ghaziabad,DLF Ankur Vihar,2000000,5000,900,3
+4007,Ghaziabad,Raj Nagar Extension,3778500,9446,1145,2
+4008,Ghaziabad,DLF Ankur Vihar,1000000,2500,450,1
+4009,Ghaziabad,Pratap Vihar,9400000,20000,1795,3
+4010,Ghaziabad,DLF Ankur Vihar,2500000,6250,1000,3
+4011,Ghaziabad,Gyan Khand,4900000,12250,1100,2
+4012,Ghaziabad,DLF Ankur Vihar,9000000,20000,450,2
+4013,Ghaziabad,DLF Ankur Vihar,1131000,2827,450,1
+4014,Ghaziabad,Shalimar Garden,2300000,5750,600,1
+4015,Ghaziabad,Vasundhara,7800000,19500,1875,3
+4016,Ghaziabad,Raj Nagar Extension,4218750,10546,1350,3
+4017,Ghaziabad,Rajendra Nagar,6000000,15000,1630,3
+4018,Ghaziabad,Siddharth Vihar,3794000,9485,856,2
+4019,Ghaziabad,Raj Nagar Extension,3564000,8910,1080,2
+4020,Ghaziabad,Sector 4 Vaishali,13500000,20000,2345,3
+4101,Aurangabad,Deolai,2300000,5750,950,2
+4102,Aurangabad,Beed Bypass Padegaon,1800000,4500,1050,2
+4103,Aurangabad,Beed Bypass Padegaon,1800000,4500,950,2
+4104,Aurangabad,Silk Mill Colony,2500000,6250,851,2
+4105,Aurangabad,Silk Mill Colony,2500000,6250,850,2
+4106,Aurangabad,CIDCO Waluj Mahanagar 1,1900000,4750,530,1
+4107,Aurangabad,Mayurban Colony,3800000,9500,850,1
+4108,Aurangabad,Beed Bypass Padegaon,2300000,5750,950,2
+4110,Aurangabad,Zalta,1075000,2687,550,1
+4111,Aurangabad,Naralibag,4623000,11557,925,2
+4112,Aurangabad,Zalta,1163000,2907,380,1
+4113,Aurangabad,Deogiri Valley,2650000,6625,1049,2
+4114,Aurangabad,Gajanan Colony,4900000,12250,900,2
+4115,Aurangabad,Kanchanwadi,2900000,7250,805,2
+4116,Aurangabad,Uttaranagri,2500000,6250,900,2
+4117,Aurangabad,Itkheda,2500000,6250,600,2
+4118,Aurangabad,Waluj,2800000,7000,850,2
+4119,Aurangabad,Padegaon,2500000,6250,730,2
+4120,Aurangabad,Rangeen Gate,2100000,5250,680,1
+4204,Almora,NTD Road,9500000,20000,2160,5
+4205,Almora,AlmoraRanikhatKosi Road,60000000,20000,8640,11
+4301,Panipat,Sector 40,2032000,5080,691,2
+4302,Panipat,Virat Nagar,1843000,4607,800,2
+4303,Panipat,Sector 19,6500000,16250,1693,3
+4304,Panipat,Model Town,1843000,4607,650,2
+4306,Panipat,Sector 19,5900000,14750,1693,3
+4307,Panipat,Model Town,1843000,4607,800,2
+4308,Panipat,Virat Nagar,4000000,10000,1250,2
+4309,Panipat,Kacha Camp,1900000,4750,1040,2
+4310,Panipat,Virat Nagar,4000000,10000,1000,2
+4311,Panipat,HUDA,17600000,20000,558,1
+4312,Panipat,Virat Nagar,4000000,10000,1200,2
+4401,Allahabad,Dandi,3000000,7500,1170,3
+4402,Allahabad,Sulem Sarai,4300000,10750,1040,2
+4403,Allahabad,Naini,5900000,14750,1350,3
+4404,Allahabad,Sulem Sarai,5300000,13250,1470,3
+4405,Allahabad,Sulem Sarai,4100000,10250,1005,2
+4406,Allahabad,Sulem Sarai,4750000,11875,1260,2
+4407,Allahabad,Sulem Sarai,4160000,10400,1040,2
+4408,Allahabad,Preetam Nagar,4208000,10520,1052,2
+4409,Allahabad,Naini,2400000,6000,990,2
+4410,Allahabad,Naini,2364000,5910,788,2
+4411,Allahabad,Preetam Nagar,4176000,10440,1044,2
+4412,Allahabad,Airport Road,1625000,4062,431,2
+4413,Allahabad,Jhusi,4606000,11515,1400,4
+4414,Allahabad,Naini,1461000,3652,487,1
+4415,Allahabad,Naini,5500000,13750,1350,3
+4416,Allahabad,Jhusi,3100000,7750,1209,2
+4417,Allahabad,Naini,2500000,6250,1200,3
+4418,Allahabad,Preetam Nagar,5400000,13500,1450,3
+4419,Allahabad,Jhalwa Road,2400000,6000,1005,2
+4501,Guwahati,Borbari,6000000,15000,1630,3
+4502,Guwahati,VIP Road,3700000,9250,950,2
+4503,Guwahati,Beltola,7200000,18000,1600,3
+4504,Guwahati,Bagharbari,4500000,11250,1100,2
+4505,Guwahati,Borbari,5400000,13500,1370,3
+4506,Guwahati,FA Road,8200000,20000,1450,3
+4507,Guwahati,Sachal Path,4200000,10500,1050,2
+4508,Guwahati,Six Mile,5400000,13500,1200,3
+4509,Guwahati,Beltola,2350000,5875,650,1
+4510,Guwahati,Ganeshguri,4000000,10000,950,2
+4511,Guwahati,Beltola,4500000,11250,1150,2
+4512,Guwahati,South Sarania Road,7000000,17500,1456,3
+4513,Guwahati,Rukmini Gaon,5800000,14500,1250,3
+4514,Guwahati,Hockey Stadium Road,4500000,11250,1000,2
+4515,Guwahati,Radha Nagar,3500000,8750,825,2
+4516,Guwahati,Beltola,4800000,12000,1500,3
+4517,Guwahati,VIP Road,3600000,9000,1050,2
+4518,Guwahati,Kahilipara,6200000,15500,1450,3
+4519,Guwahati,Lokhra,4900000,12250,1201,3
+4520,Guwahati,Hatigaon,4400000,11000,1110,2
+4521,Guwahati,Borbari,6985000,17462,1910,3
+4522,Guwahati,Japorigog,6151530,15378,1464,3
+4523,Guwahati,Ulubari,7500000,18750,1210,3
+4524,Guwahati,Lakhimi Nagar Road,7500000,18750,1800,3
+4525,Guwahati,Manik Nagar,6600000,16500,1471,3
+4526,Guwahati,GARCHUK,3253800,8134,986,2
+4527,Guwahati,Six Mile,9799680,20000,2112,4
+4528,Guwahati,Lokhra,5000000,12500,1201,3
+4529,Guwahati,KAILASHPUR,4210500,10526,1203,3
+4530,Guwahati,Zoo Tiniali,4000000,10000,1400,3
+4531,Guwahati,Sachal Path VIP Road Bylane Number 1,5900000,14750,1378,3
+4532,Guwahati,Rukmini Gaon,6500000,16250,1400,3
+4533,Guwahati,Beltola,13150000,20000,2927,4
+4534,Guwahati,Azara,5000000,12500,1200,3
+4535,Guwahati,Bamunimaidam,4400000,11000,1040,2
+4536,Guwahati,Barbari Village,4000000,10000,1200,2
+4537,Guwahati,Bhangagarh,5200000,13000,1200,3
+4538,Guwahati,Borbari,6750000,16875,1842,3
+4539,Guwahati,Lokhra,4500000,11250,1357,3
+4540,Guwahati,Kahilipara,4000000,10000,1170,2
+4541,Guwahati,Rehabari,5500000,13750,960,2
+4542,Guwahati,Dharapur,3000000,7500,808,2
+4543,Guwahati,Six Mile,5100000,12750,1185,2
+4544,Guwahati,survey,4200000,10500,1450,2
+4545,Guwahati,Jalukbari,9500000,20000,1100,3
+4546,Guwahati,Rehabari,4500000,11250,1030,2
+4547,Guwahati,Ulubari,4800000,12000,1040,2
+4548,Guwahati,Bhetapara,4000000,10000,980,2
+4549,Guwahati,survey,5500000,13750,1285,3
+4550,Guwahati,Lal Ganesh,4100000,10250,1000,3
+4552,Guwahati,Kahilipara,3000000,7500,1000,2
+4553,Guwahati,Lal Ganesh,6000000,15000,1250,3
+4554,Guwahati,Lokhra,3800000,9500,1050,2
+4555,Guwahati,Six Mile,7200000,18000,1730,3
+4557,Guwahati,Six Mile,7760850,19402,1669,3
+4559,Guwahati,Rukmini Gaon,3500000,8750,1100,2
+4561,Guwahati,Bormotoria,13000000,20000,2220,4
+4562,Guwahati,Geeta Nagar Road,4800000,12000,1450,3
+4563,Guwahati,Kahilipara,3300000,8250,912,2
+4564,Guwahati,Pator Kuchi,3800000,9500,1013,2
+4565,Guwahati,Kalyani Sagar Path,4700000,11750,1350,3
+4566,Guwahati,Dighalipukhuri,5500000,13750,1230,3
+4567,Guwahati,Ulubari,5800000,14500,1400,3
+4568,Guwahati,Kahilipara Road,3200000,8000,770,1
+4569,Guwahati,Narikalbari,6000000,15000,1328,3
+4570,Guwahati,Kahilipara Road,5000000,12500,1320,2
+4571,Guwahati,Sachal Path VIP Road Bylane Number 1,4300000,10750,1000,2
+4573,Guwahati,Lalmati,4500000,11250,1315,3
+4574,Guwahati,Six Mile,5200000,13000,1200,3
+4575,Guwahati,Chandmari,4600000,11500,950,2
+4576,Guwahati,VIP Road,7500000,18750,2000,4
+4577,Guwahati,Borsojai,3700000,9250,908,2
+4578,Guwahati,Kahilipara Road,6500000,16250,1598,3
+4579,Guwahati,Lakhimi Path,5200000,13000,1334,3
+4580,Guwahati,Jayanagar,4500000,11250,888,2
+4581,Guwahati,Beltola,6500000,16250,1527,3
+4582,Guwahati,Hatigaon,6000000,15000,1472,3
+4584,Guwahati,Bhetapara Ghoramara Road,3900000,9750,1080,3
+4585,Guwahati,Ghoramara,4300000,10750,1180,3
+4586,Guwahati,Sachal Path VIP Road Bylane Number 1,3600000,9000,950,2
+4587,Guwahati,GS Road,8000000,20000,1500,3
+4588,Guwahati,Jatia,4400000,11000,1043,2
+4589,Guwahati,Borsojai,5000000,12500,1311,3
+4590,Guwahati,Ganeshguri,4400000,11000,1043,2
+4591,Guwahati,VIP Road,3700000,9250,1175,2
+4592,Guwahati,GS Road,5700000,14250,1150,2
+4593,Guwahati,Kahilipara Road,5500000,13750,1320,3
+4594,Guwahati,Jatia,4500000,11250,1043,2
+4595,Guwahati,Ganesh Mandir Path,5400000,13500,1284,3
+4596,Guwahati,Jatia,5400000,13500,1413,3
+4597,Guwahati,Kahilipara Road,4500000,11250,1152,2
+4598,Guwahati,Pub Sarania Road,7500000,18750,1580,3
+4599,Guwahati,Panjabari Road,2000000,5000,600,1
+4601,Mumbai,Kandivali East,15300041,20000,667,2
+4602,Mumbai,Mulund West,23100000,20000,975,3
+4603,Mumbai,Thane West,14800000,20000,618,2
+4604,Mumbai,Saphale,1700275,4250,575,1
+4605,Mumbai,Malad East,21700000,20000,847,2
+4606,Mumbai,Dadar West,75000000,20000,1413,3
+4607,Mumbai,Ambernath West,4500000,11250,599,3
+4608,Mumbai,Chembur,6990080,17475,320,1
+4609,Mumbai,Vangani,1002393,2505,201,1
+4610,Mumbai,Panvel,4849710,12124,695,2
+4611,Mumbai,Santacruz East,29700000,20000,900,3
+4612,Mumbai,Andheri West,9250000,20000,340,1
+4613,Mumbai,Chembur,20299999,20000,790,2
+4614,Mumbai,Dombivali,4354020,10885,540,2
+4615,Mumbai,Malad West,13500000,20000,896,2
+4616,Mumbai,Kharghar,7799998,19499,373,1
+4617,Mumbai,Shil Phata,4186000,10465,470,1
+4618,Mumbai,Girgaon,24200000,20000,570,2
+4619,Mumbai,Vasind,3074219,7685,703,2
+4620,Mumbai,Badlapur East,2430000,6075,410,1
+4701,Ganjam,Residential FlatSunworld Arista,8200000,20000,1350,3
+4702,Ganjam,Residential Flat Sector,6000000,15000,1421,3
+4703,Ganjam,Residential Flat Sector,3700000,9250,515,1
+4704,Ganjam,Residential Flat Noida,8200000,20000,1900,3
+4705,Ganjam,Residential Flat Noida,3600000,9000,614,1
+4706,Ganjam,Residential FlatSector,4550000,11375,1300,3
+4707,Ganjam,Residential FlatSector,3130000,7825,615,1
+4708,Ganjam,Residential Flat Noida,3383000,8457,515,1
+4709,Ganjam,Residential FlatSunworld Arista,8200000,20000,1386,3
+4801,Gurgaon,Sector 82,7200000,18000,1245,2
+4802,Gurgaon,Sector 65,56276700,20000,5163,4
+4803,Gurgaon,Sector 65,17800000,20000,2000,3
+4804,Gurgaon,Sector 65,80199000,20000,6365,4
+4805,Gurgaon,Sector 77,11300000,20000,2000,3
+4806,Gurgaon,Sector 63A,2580000,6450,645,3
+4807,Gurgaon,Sector 85,9900000,20000,2120,3
+4808,Gurgaon,Sector 65,10591000,20000,1190,2
+4809,Gurgaon,Sector 109,21206250,20000,2925,4
+4810,Gurgaon,Sector 63,25699828,20000,1991,4
+4811,Gurgaon,Sector 104,17000000,20000,1700,2
+4812,Gurgaon,Sector 104,9458000,20000,1389,3
+4813,Gurgaon,Sector 106,14399988,20000,1108,3
+4814,Gurgaon,Sector 102,12260700,20000,1900,3
+4815,Gurgaon,Sector 102,8980000,20000,1359,2
+4818,Gurgaon,Sector 70A,13620750,20000,2145,3
+4819,Gurgaon,Sector 102,18000000,20000,3200,4
+4820,Gurgaon,Sector 82,29700000,20000,5320,5
+5001,Madurai,Madakkulam,5037000,12592,1022,2
+5002,Madurai,Iyer Bungalow,9000000,20000,1560,3
+5003,Madurai,Marani mainroad,2850000,7125,663,2
+5004,Madurai,Umachikulam,3200000,8000,668,2
+5005,Madurai,S S Colony,5000000,12500,1600,3
+5006,Madurai,Thiruppalai,20500000,20000,2880,4
+5007,Madurai,Bypass Road,8944000,20000,999,2
+5008,Madurai,Shri Vel Murugan Nagar,4800000,12000,1075,2
+5009,Madurai,Bibikulam,8500000,20000,1800,3
+5010,Madurai,Lourdhu Nagar,7171500,17928,1366,2
+5011,Madurai,Sekkalai,5546000,13865,1583,3
+5012,Madurai,Andalpuram,5000000,12500,1348,2
+5013,Madurai,Bibikulam,8000000,20000,1700,3
+5014,Madurai,Sekkalai,2400000,6000,720,1
+5015,Madurai,Narimedu,50000000,20000,12000,10
+5016,Madurai,Chinna Chokkikulam,5200000,13000,1050,2
+5017,Madurai,Bi Bi Kulam Road,8100000,20000,2250,3
+5018,Madurai,Periyar,6500000,16250,1430,3
+5019,Madurai,Kochadai,4500000,11250,1100,2
+5020,Madurai,Virattipathu,4500000,11250,1070,2
+5101,Agra,Civil Lines,8500000,20000,897,2
+5102,Agra,Civil Lines,9000000,20000,980,2
+5103,Agra,Civil Lines,8500000,20000,980,2
+5104,Agra,Civil Lines,8627000,20000,602,1
+5105,Agra,Shastripuram,2790000,6975,1250,2
+5106,Agra,Shamshabad Road,3699000,9247,1070,2
+5111,Agra,Dayal Bagh,4950000,12375,1375,2
+5113,Agra,fatehabad road,4440000,11100,1480,3
+5115,Agra,Shamshabad Road,4400000,11000,1480,3
+5116,Agra,Shamshabad Road,3749000,9372,1070,2
+5118,Agra,Rajrai,2699000,6747,1542,3
+5119,Agra,Shastripuram,2700000,6750,1250,2
+5201,Kannur,Keecheri,4500000,11250,1365,2
+5202,Kannur,Thalassery,7448000,18620,1520,3
+5203,Kannur,Thaze Chovva Mattannur Road,4300000,10750,1054,3
+5204,Kannur,Kannothchal,5482500,13706,1075,2
+5205,Kannur,Thaze Chovva Mattannur Road,3500000,8750,1200,3
+5206,Kannur,Kannothchal,6936000,17340,1360,3
+5207,Kannur,Chirakkal,7362000,18405,1636,3
+5208,Kannur,Thalassery,5145000,12862,1050,2
+5209,Kannur,Thalassery,3600000,9000,1100,2
+5210,Kannur,New Mahe,7897500,19743,1755,3
+5211,Kannur,New Mahe,6903000,17257,1534,3
+5213,Kannur,Thalassery,3900000,9750,1100,2
+5214,Kannur,Puthiyatheru Kakkad Road,4760000,11900,1360,3
+5215,Kannur,Kannothchal,3774000,9435,740,1
+5218,Kannur,Thaze Chovva Mattannur Road,4500000,11250,1432,3
+5219,Kannur,Eranholi,3600000,9000,1100,2
+5220,Kannur,Kannothchal,7344000,18360,1440,3
+5301,Ratnagiri,Chiplun,2350000,5875,750,2
+5302,Ratnagiri,Khedashi,1456417,3641,471,1
+5303,Ratnagiri,Harnai,3500000,8750,710,2
+5304,Ratnagiri,Khedashi,2091000,5227,615,1
+5305,Ratnagiri,Chiplun,1550000,3875,550,1
+5306,Ratnagiri,Guhagar,4500000,11250,670,1
+5307,Ratnagiri,Jail Road,2150000,5375,645,1
+5308,Ratnagiri,Guhagar,4900000,12250,669,1
+5309,Ratnagiri,Khed,1080000,2700,400,1
+5310,Ratnagiri,Rest House Road,1450000,3625,635,1
+5311,Ratnagiri,RatnagiriGanpati Pule Highway,1400000,3500,412,1
+5312,Ratnagiri,Maruti Mandir Circle,1870000,4675,662,1
+5313,Ratnagiri,Nachane Road,2200000,5500,490,1
+5314,Ratnagiri,Khedashi,2800000,7000,725,2
+5315,Ratnagiri,Maruti Mandir Circle,2499420,6248,660,1
+5316,Ratnagiri,Sanmitra Nagar,1600000,4000,500,1
+5317,Ratnagiri,Nachane Road,1782000,4455,594,1
+5318,Ratnagiri,Zadgaon,1100000,2750,450,1
+5319,Ratnagiri,Lanja,1250000,3125,550,1
+5320,Ratnagiri,State Bank Colony,3100000,7750,579,1
+5401,Chandigarh,Gazipur,8270000,20000,1940,4
+5402,Chandigarh,Sunny Enclave,2600000,6500,1135,2
+5403,Chandigarh,Dhakoli,5100000,12750,1450,3
+5404,Chandigarh,Gazipur,5300000,13250,1945,3
+5405,Chandigarh,Mullanpur,4868550,12171,1395,3
+5406,Chandigarh,Gazipur Road,8300000,20000,2020,3
+5407,Chandigarh,Gazipur,4100000,10250,1460,3
+5408,Chandigarh,Gazipur,6202000,15505,1772,3
+5409,Chandigarh,Yadagirigutta,6000000,15000,1000,2
+5410,Chandigarh,Gazipur,5800000,14500,1602,3
+5411,Chandigarh,Sunny Enclave,2850000,7125,915,2
+5412,Chandigarh,Dhakoli,3050000,7625,1200,3
+5413,Chandigarh,Mullanpur,8694000,20000,2300,4
+5414,Chandigarh,Sector 20,7500000,18750,1700,3
+5415,Chandigarh,Gazipur,8950000,20000,2284,4
+5416,Chandigarh,Chandigarh Airport Area,4450000,11125,1120,2
+5417,Chandigarh,Dhakoli,6113750,15284,1825,3
+5418,Chandigarh,Gazipur,6000000,15000,1602,3
+5419,Chandigarh,116 Sector mohali,4690000,11725,1500,3
+5420,Chandigarh,Mullanpur Garibdass,5783400,14458,1530,3
+5501,Bhubaneswar,aIGINIA,6403200,16008,1334,2
+5502,Bhubaneswar,Khandagiri,5320000,13300,1400,2
+5503,Bhubaneswar,Tamando,4972000,12430,1275,2
+5504,Bhubaneswar,Sundarapada Jatani Road,3300000,8250,1220,2
+5505,Bhubaneswar,Patia,3926000,9815,1450,3
+5506,Bhubaneswar,Patia,4580000,11450,1145,2
+5507,Bhubaneswar,Gothapatna,3372000,8430,1220,2
+5508,Bhubaneswar,PatiaKalarahanga Road,5000000,12500,1205,2
+5509,Bhubaneswar,Kalinga Vihar LIG,5775000,14437,1480,3
+5510,Bhubaneswar,Raghunathpur,4357500,10893,1162,2
+5511,Bhubaneswar,Kalinga Vihar Road,5000000,12500,1336,2
+5512,Bhubaneswar,Kalarahanga,4857000,12142,1450,3
+5513,Bhubaneswar,Patia,4800000,12000,1450,3
+5514,Bhubaneswar,Puri Cuttack Road,6200000,15500,1536,3
+5515,Bhubaneswar,Shampur,6500000,16250,1620,3
+5516,Bhubaneswar,Janla,4206225,10515,1275,2
+5517,Bhubaneswar,Kalarahanga,4820000,12050,1205,2
+5518,Bhubaneswar,Chandrasekharpur,9000000,20000,1466,3
+5519,Bhubaneswar,Tamando,6027546,15068,1435,3
+5520,Bhubaneswar,Sundarpada,3092400,7731,1226,2
+5601,Satara,Khed,1099800,2749,450,1
+5602,Satara,Khed,2700000,6750,900,2
+5603,Satara,Khed,3300150,8250,1050,3
+5604,Satara,Tamjai Nagar,2700000,6750,1150,2
+5605,Satara,Khed,1499850,3749,550,1
+5606,Satara,Wai M I D C Road,1800000,4500,530,1
+5607,Satara,Shaniwar Peth,2800000,7000,899,1
+5608,Satara,Guruwar Peth,3300000,8250,750,2
+5609,Satara,Somwar Peth,4200000,10500,1200,2
+5610,Satara,Karad,1800000,4500,550,1
+5611,Satara,Sadar Bazar,2600000,6500,750,2
+5612,Satara,Somwar Peth,1999431,4998,639,1
+5613,Satara,Khed,4199800,10499,1100,2
+5614,Satara,Tamjai Nagar,2179000,5447,680,1
+5615,Satara,Shaniwar Peth,500000,1250,1000,2
+5616,Satara,Gangapuri,1290000,3225,480,1
+5617,Satara,Karad,1850000,4625,600,1
+5619,Satara,Tamjai Nagar,3000000,7500,825,1
+5620,Satara,Tamjai Nagar,2750000,6875,1150,1
+5701,Mysore,Metagalli,3871000,9677,790,1
+5702,Mysore,Chamrajpura,7000000,17500,1220,2
+5703,Mysore,Bogadi Road,4800000,12000,1063,3
+5704,Mysore,Vijayanagar,4500000,11250,1300,3
+5705,Mysore,J P Nagar,5000000,12500,1470,3
+5706,Mysore,Mysore Road,5600000,14000,1082,3
+5707,Mysore,Yadavagiri,7500000,18750,1188,2
+5708,Mysore,J P Nagar,4447000,11117,1308,2
+5709,Mysore,Dattagalli,5000000,12500,1349,2
+5710,Mysore,Siddhartha Layout,6500000,16250,1170,2
+5711,Mysore,Metagalli,10400000,20000,2130,3
+5712,Mysore,Metagalli,7100000,17750,1400,2
+5713,Mysore,Jayanagar,5400000,13500,1010,2
+5714,Mysore,Bogadi Road,4800000,12000,1221,3
+5715,Mysore,Mysore Road,4500000,11250,883,2
+5716,Mysore,Bogadi Road,4400000,11000,1221,3
+5717,Mysore,Hebbal 2nd Stage,6500000,16250,2100,4
+5718,Mysore,Rajendra Nagar,3800000,9500,1025,2
+5719,Mysore,J P Nagar,4080000,10200,1200,2
+5720,Mysore,J P Nagar,8500000,20000,2000,3
+5801,Surat,Khadsad,3374000,8435,1205,2
+5802,Surat,Althan,8450000,20000,2100,3
+5803,Surat,Limbayat,586000,1465,558,2
+5804,Surat,Khadsad,2814000,7035,1005,2
+5805,Surat,Althan,14000000,20000,2600,3
+5806,Surat,Limbayat,1046500,2616,455,1
+5807,Surat,Vesu,14350000,20000,2870,3
+5808,Surat,Athwa,4300000,10750,1508,3
+5809,Surat,Adajan,3549800,8874,1250,2
+5810,Surat,Khadsad,3094000,7735,1105,2
+5811,Surat,Palanpur,3700000,9250,1150,2
+5812,Surat,Palanpur,3500000,8750,1250,2
+5813,Surat,Palanpur,6054455,15136,1705,3
+5814,Surat,Vanakala,2900000,7250,1100,2
+5815,Surat,Jahangirabad,3100000,7750,920,2
+5816,Surat,Pal Gam,11000011,20000,2759,3
+5817,Surat,Pal Gam,7000000,17500,1422,3
+5818,Surat,Citylight Area,3800000,9500,900,2
+5819,Surat,Pal,5700000,14250,1714,3
+5820,Surat,Palanpur,5500000,13750,1445,3
+5901,Visakhapatnam,Pendurthi,4500000,11250,1800,4
+5902,Visakhapatnam,Atchutapuram,3300000,8250,1478,3
+5903,Visakhapatnam,Endada,5760000,14400,1440,3
+5904,Visakhapatnam,Gajuwaka,1500000,3750,1000,2
+5905,Visakhapatnam,Gajuwaka,3375000,8437,1125,2
+5906,Visakhapatnam,Gajuwaka,3150000,7875,1125,2
+5907,Visakhapatnam,Rajeev Nagar Road,3680000,9200,1150,2
+5908,Visakhapatnam,Midhilapuri Vuda Colony,6500000,16250,1320,2
+5909,Visakhapatnam,Gajuwaka,3262500,8156,1125,2
+5910,Visakhapatnam,Kommadi Road,3036000,7590,920,2
+5911,Visakhapatnam,PM Palem Main Road,4000000,10000,1090,2
+5912,Visakhapatnam,PMPalem,4637500,11593,1325,3
+5913,Visakhapatnam,Madhurawada,4110000,10275,1090,2
+5914,Visakhapatnam,Yendada,4500000,11250,1000,2
+5915,Visakhapatnam,Gajuwaka,5400000,13500,1800,3
+5916,Visakhapatnam,Madhurawada,7900000,19750,1950,3
+5917,Visakhapatnam,Pothinamallayya Palem,6900000,17250,1500,3
+5918,Visakhapatnam,Rajiv Nagar,4340000,10850,1150,2
+5919,Visakhapatnam,PMPalem,5738700,14346,1550,3
+5920,Visakhapatnam,Pedagantyada,4275000,10687,1425,3
+6001,Ambala,Ambala Chandigarh Expressway,3199000,7997,1350,2
+6002,Ambala,Ambala Chandigarh Expressway,4900000,12250,1460,3
+6003,Ambala,Ambala Chandigarh Expressway,3899200,9748,1600,3
+6004,Ambala,Ambala Chandigarh Expressway,4099060,10247,1610,3
+6005,Ambala,Ambala Chandigarh Expressway,3200000,8000,1308,2
+6006,Ambala,Ambala Chandigarh Expressway,3000000,7500,1300,2
+6007,Ambala,Ambala Chandigarh Expressway,4330000,10825,1610,3
+6008,Ambala,Sector 23,50000000,20000,10000,10
+6011,Ambala,Sector 23,22500000,20000,4500,4
+6012,Ambala,Sector 23,15000000,20000,1500,2
+6013,Ambala,Sector 23,12000000,20000,1350,3
+6014,Ambala,Sector 23,11000000,20000,2000,3
+6015,Ambala,Sector 23,27500000,20000,4500,5
+6017,Ambala,Sector 23,8500000,20000,1100,3
+6018,Ambala,Sector 23,15000000,20000,1200,3
+6019,Ambala,Sector 23,13500000,20000,2500,3
+6022,Ambala,Pooja Viahr,7500000,18750,2100,3
+6023,Ambala,Railway Road,3790000,9475,1500,3
+6024,Ambala,prem nagar,6000000,15000,2000,3
+6025,Ambala,Ambala Chandigarh Expressway,101010101,20000,5211,4
+6026,Ambala,Mahesh Nagar,8400000,20000,2100,4
+6027,Ambala,Ambala Chandigarh Expressway,3850000,9625,1500,3
+6101,Mathura,Vrindavan,1950000,4875,429,1
+6102,Mathura,Vrindavan,2500000,6250,526,1
+6103,Mathura,Vrindavan,2910600,7276,1078,2
+6104,Mathura,Vrindavan,2800000,7000,965,2
+6105,Mathura,Vrindavan,2980000,7450,877,1
+6106,Mathura,Vrindavan,2120000,5300,785,1
+6107,Mathura,Vrindavan,3300000,8250,750,1
+6109,Mathura,Vrindavan,1300000,3250,435,1
+6110,Mathura,Vrindavan,1450000,3625,435,1
+6111,Mathura,Vrindavan,1200000,3000,450,1
+6112,Mathura,Vrindavan,1560000,3900,605,1
+6113,Mathura,Girdharpur,1400000,3500,700,2
+6114,Mathura,Vrindavan,3700000,9250,1144,2
+6115,Mathura,Vrindavan,800000,2000,435,1
+6116,Mathura,Vrindavan,1871000,4677,520,1
+6117,Mathura,Vrindavan,1800000,4500,525,1
+6118,Mathura,Vrindavan,2000000,5000,775,1
+6119,Mathura,Vrindavan,1000000,2500,400,1
+6120,Mathura,Vrindavan,2500000,6250,585,1
+6201,Ernakulam,Pottakuzhy Lane,5500000,13750,1325,3
+6202,Ernakulam,Kakkanad,6000000,15000,1580,3
+6203,Ernakulam,Palarivattom,8600000,20000,1400,3
+6204,Ernakulam,Chittoor Road,8000000,20000,1175,2
+6205,Ernakulam,Residential FlatKadungaloor,3500000,8750,1200,3
+6206,Ernakulam,Edappally,9000000,20000,1380,3
+6207,Ernakulam,Edappally,8500000,20000,1606,3
+6208,Ernakulam,Kadavanthara,6800000,17000,1311,2
+6209,Ernakulam,Elamkulam,9700000,20000,1350,3
+6210,Ernakulam,Tripunithura,4600000,11500,863,2
+6211,Ernakulam,Thrippunithura,3500000,8750,1223,3
+6212,Ernakulam,Elamkulam,8500000,20000,1350,2
+6213,Ernakulam,Thrippunithura,2000000,5000,850,3
+6214,Ernakulam,Ernakulam South,359100,897,1050,2
+6301,Warangal,Warangal Mulug Road,5220000,13050,1450,2
+6302,Warangal,Shanthi Nagar,4100000,10250,1180,2
+6303,Warangal,Chaitanyapuri Colony,3500000,8750,1540,3
+6314,Warangal,Saptagiri Colony,6500000,16250,1300,2
+6315,Warangal,Dharmaram Vasanthapur Road,1600000,4000,1107,1
+6317,Warangal,Hanamkonda,35200000,20000,3150,6
+6321,Warangal,Brahmanawada,4600000,11500,1350,2
+6322,Warangal,Brahmanawada,4600000,11500,750,2
+6401,Kolkata,Behala,6401199,16002,1371,2
+6402,Kolkata,Uttar Gauripur,1100000,2750,403,1
+6403,Kolkata,New Town,4126500,10316,917,2
+6404,Kolkata,Maheshtala,2235900,5589,771,2
+6405,Kolkata,Madhyamgram,4033000,10082,1295,3
+6406,Kolkata,Madhyamgram,4228674,10571,1152,3
+6407,Kolkata,Dum Dum,4503600,11259,1251,3
+6408,Kolkata,Nayabad,2624895,6562,819,2
+6409,Kolkata,Tollygunge,4043600,10109,919,2
+6410,Kolkata,Joka,5518772,13796,1370,3
+6411,Kolkata,Rajarhat,980023,2450,451,1
+6412,Kolkata,Rajarhat,4386000,10965,860,3
+6413,Kolkata,Ballygunge,19637800,20000,2158,4
+6414,Kolkata,Ultadanga,13000000,20000,2000,3
+6415,Kolkata,New Town,6381120,15952,927,2
+6416,Kolkata,Rajarhat,6200000,15500,934,3
+6417,Kolkata,Rajarhat,4242000,10605,1212,3
+6418,Kolkata,Behala,6040723,15101,1045,2
+6420,Kolkata,Rajarhat,6248232,15620,775,2
+6501,Anantapuram,Rtc Bus Stand Road,4700000,11750,1300,2
+6502,Anantapuram,Adarsh Nagar,5200000,13000,1300,2
+6503,Anantapuram,Ram Nagar,5360000,13400,1340,3
+6504,Anantapuram,Ram Nagar,3535000,8837,400,2
+6505,Anantapuram,Puttaparthi Main Road,1500000,3750,755,1
+6506,Anantapuram,Ram Nagar,5200000,13000,1300,2
+6507,Anantapuram,Ram Nagar,5200000,13000,1410,2
+6508,Anantapuram,Ram Nagar,5600000,14000,1550,3
+6509,Anantapuram,Rudrampeta,5480000,13700,1370,2
+6510,Anantapuram,Ram Nagar,3500000,8750,1250,2
+6511,Anantapuram,Ram Nagar,4800000,12000,1360,2
+6513,Anantapuram,Ram Nagar,6560000,16400,1640,3
+6601,Jaipur,Ajmer Road,4177497,10443,1519,3
+6602,Jaipur,Sanganer,4699998,11749,1105,3
+6603,Jaipur,Ajmer Road,3965000,9912,1239,3
+6604,Jaipur,Ajmer Road,2350000,5875,948,2
+6605,Jaipur,Gandhi Path West,1225000,3062,408,1
+6606,Jaipur,Ajmer Road,2800000,7000,1070,2
+6607,Jaipur,Niwaru Road,2500000,6250,1200,3
+6608,Jaipur,Lalarpura Road,3190000,7975,1000,2
+6609,Jaipur,Mansarovar,4000000,10000,1500,3
+6610,Jaipur,Jhotwara,2351000,5877,1125,2
+6611,Jaipur,Hathoj,1500000,3750,860,2
+6612,Jaipur,Mahindra Sez,3900000,9750,1175,2
+6613,Jaipur,Lalarpura Road,3100000,7750,1270,3
+6614,Jaipur,Mansarovar Extension,4931200,12328,1541,3
+6615,Jaipur,Jhotwara,3450000,8625,1200,2
+6616,Jaipur,Thikariya,2800000,7000,1475,3
+6617,Jaipur,Brijlalpura,3800000,9500,1010,2
+6618,Jaipur,Lalarpura Road,3100000,7750,1300,3
+6619,Jaipur,Jagatpura,18000000,20000,2300,3
+6620,Jaipur,Gandhi Path West,1598991,3997,469,2
+6701,Patna,Saguna Danapur Main Road,6127500,15318,1423,3
+6702,Patna,Mahuabagh Road,6200000,15500,1286,3
+6703,Patna,Bailey Road,4228000,10570,1208,2
+6704,Patna,Nahar Road,3977400,9943,947,2
+6705,Patna,Danapur,3600000,9000,1100,2
+6706,Patna,Gola Road,4500000,11250,1000,2
+6707,Patna,Mahuabagh Road,6000000,15000,1230,3
+6708,Patna,Mohammadpur Korji Road,3900000,9750,1325,2
+6709,Patna,Kankarbagh Main Road,5500000,13750,1050,2
+6710,Patna,Saguna More,7600000,19000,1510,3
+6711,Patna,Saguna More,7800000,19500,1510,3
+6712,Patna,Saguna More,2457000,6142,945,2
+6713,Patna,Saubhagya Sharma Path,6669000,16672,1419,3
+6714,Patna,Anisabad,5600000,14000,1505,3
+6715,Patna,jagdeo path,6200000,15500,1400,3
+6716,Patna,Danapur Khagaul Road,5000000,12500,1462,3
+6717,Patna,Saguna More,4000000,10000,1056,2
+6718,Patna,Anisabad,5387400,13468,1314,3
+6719,Patna,RPS Road,2000000,5000,565,1
+6720,Patna,Danapur Railway Station FOB,4500000,11250,1464,3
+6801,Meerut,Ganga Nagar,2650000,6625,1010,2
+6802,Meerut,Modi Puram,2250000,5625,900,2
+6803,Meerut,Rohta Road,2500000,6250,1400,1
+6804,Meerut,Delhi Meerut Expressway,4100000,10250,750,2
+6805,Meerut,DauralaMasuri Road,1699000,4247,900,2
+6806,Meerut,Meerut Bypass Road,4000000,10000,1400,3
+6807,Meerut,Somdutt Vihar,5000000,12500,1400,2
+6808,Meerut,Delhi Road,3200000,8000,1226,2
+6809,Meerut,Rohta Road,3650000,9125,1560,2
+6810,Meerut,Shatabdi Nagar,4000000,10000,600,3
+6811,Meerut,Delhi Road,5000000,12500,1293,2
+6812,Meerut,Residential House Shergarhi,1800000,4500,900,2
+6813,Meerut,Delhi Road,2592000,6480,1055,2
+6814,Meerut,Shatabdi Nagar,2200000,5500,1206,3
+6815,Meerut,Roorkee Road,3600000,9000,1400,3
+6816,Meerut,DauralaMasuri Road,1720000,4300,900,2
+6817,Meerut,kanker khera,4600000,11500,400,2
+6818,Meerut,Delhi Road,4000000,10000,1293,2
+6819,Meerut,Delhi Road,9500000,20000,600,3
+6820,Meerut,Delhi Road,3300000,8250,1226,2
+6901,Chennai,Anna Nagar,16606358,20000,1277,3
+6902,Chennai,Sholinganallur,4869000,12172,1082,2
+6903,Chennai,Madipakkam,7762500,19406,1242,2
+6904,Chennai,Puzhal,6052500,15131,1345,3
+6905,Chennai,Perungudi,12919313,20000,1486,3
+6906,Chennai,Urapakkam,4091900,10229,986,2
+6907,Chennai,Sholinganallur,6330460,15826,1405,3
+6908,Chennai,Pammal,3532500,8831,785,2
+6909,Chennai,Ayanambakkam,7018596,17546,1404,3
+6910,Chennai,Kelambakkam,4127049,10317,1251,3
+6911,Chennai,Medavakkam,4544000,11360,869,2
+6912,Chennai,Thiruvidandhai,23400000,20000,3600,3
+6913,Chennai,Mogappair,8177000,20000,1197,2
+6914,Chennai,Mevalurkuppam,3200000,8000,576,1
+6915,Chennai,Sholinganallur,5599000,13997,1018,2
+6916,Chennai,Vanagaram,4599080,11497,920,2
+6917,Chennai,Adyar,22879840,20000,1430,3
+6918,Chennai,Iyappanthangal,9442125,20000,1575,3
+6919,Chennai,Porur,7261000,18152,1370,3
+6920,Chennai,Madambakkam,4727250,11818,955,2
+7001,Indore,Roopram Nagar,1200000,3000,500,1
+7002,Indore,Lasudia Mori,2100000,5250,775,2
+7003,Indore,Rau,2200000,5500,463,1
+7004,Indore,Rau,1560000,3900,700,2
+7005,Indore,Mhow,1860000,4650,930,2
+7006,Indore,Mhow Gaon,1860000,4650,930,2
+7007,Indore,Khajrana,6000000,15000,1733,3
+7008,Indore,AB Bypass Road,2450000,6125,1345,2
+7009,Indore,AB Bypass Road,2471000,6177,1335,3
+7010,Indore,AB Bypass Road,2624000,6560,1345,2
+7011,Indore,Nipania,2800000,7000,985,2
+7013,Indore,Super Corridor,2600000,6500,948,2
+7014,Indore,Chhota Bangarda,1755000,4387,970,2
+7016,Indore,AB Bypass Road,1825000,4562,985,2
+7017,Indore,Vijay Nagar,3370000,8425,1160,2
+7018,Indore,aurbindo hospital ujjain road,2651000,6627,915,2
+7019,Indore,New Bijalpur,3030000,7575,1144,2
+7020,Indore,AB Bypass Road,1656000,4140,895,2
+7101,Hyderabad,Narsingi,10347050,20000,1645,3
+7102,Hyderabad,Gachibowli,19317200,20000,2800,3
+7103,Hyderabad,Mokila,5999800,14999,1500,3
+7104,Hyderabad,Yapral,19354500,20000,3795,4
+7105,Hyderabad,Bachupally,5698000,14245,1295,2
+7106,Hyderabad,Adibatla,5298568,13246,1394,3
+7107,Hyderabad,Gopanpally,11089771,20000,1981,3
+7108,Hyderabad,Bandlaguda Jagir,8320000,20000,1600,3
+7109,Hyderabad,Mokila,6346000,15865,1670,3
+7110,Hyderabad,Shaikpet,15884505,20000,2155,3
+7111,Hyderabad,Narsingi,5700000,14250,1030,2
+7112,Hyderabad,Nallagandla Gachibowli,8625000,20000,1150,2
+7113,Hyderabad,Shantinagar Colony,2500000,6250,969,3
+7114,Hyderabad,Auto Nagar,9300555,20000,1691,3
+7115,Hyderabad,Nanakramguda,7350000,18375,900,1
+7116,Hyderabad,Nizampet,6100000,15250,1230,2
+7118,Hyderabad,Tellapur,20700200,20000,3569,3
+7119,Hyderabad,Yapral,5100000,12750,1220,2
+7120,Hyderabad,Raviryal,2500000,6250,1400,2
+7301,Kolhapur,Salokhe Nagar,2800000,7000,610,1
+7302,Kolhapur,Sambhaji Nagar,2500000,6250,685,1
+7303,Kolhapur,Shivaji Peth,2000000,5000,600,1
+7304,Kolhapur,Devkar Panand,5900000,14750,1350,4
+7305,Kolhapur,Deokar Panand,2500000,6250,625,1
+7306,Kolhapur,New Shahupuri,5900000,14750,1098,2
+7307,Kolhapur,Shahupuri,2500000,6250,600,1
+7308,Kolhapur,New Washi Naka,5500000,13750,1300,3
+7309,Kolhapur,Kalamba,2750000,6875,680,2
+7310,Kolhapur,IT Park Road,7000000,17500,1200,2
+7311,Kolhapur,Rajarampuri,3200000,8000,920,2
+7312,Kolhapur,Nagala Park,5000000,12500,1130,2
+7313,Kolhapur,Manganwlarpeth,1900000,4750,550,1
+7314,Kolhapur,Kalamba,4000000,10000,1179,2
+7315,Kolhapur,Devkar Panand,3500000,8750,630,1
+7317,Kolhapur,New Shahupuri,5900000,14750,1098,1
+7318,Kolhapur,Pratibha Nagar,6900000,17250,1170,2
+7319,Kolhapur,Nagala Park,4800000,12000,1130,2
+7320,Kolhapur,Pratibha Nagar,4700000,11750,1000,1
+7401,Kottayam,Kalathipady,5100000,12750,1448,3
+7402,Kottayam,Kalathipady,3500000,8750,984,2
+7403,Kottayam,Indira Nagar,9000000,20000,1761,3
+7404,Kottayam,Indira Nagar,8100000,20000,1964,3
+7405,Kottayam,Ettumanoor,16000000,20000,2900,4
+7406,Kottayam,Changanassery,8600000,20000,4500,5
+7407,Kottayam,Changanassery,8500000,20000,2500,4
+7408,Kottayam,Kottayam Medical College Bypass Road,70000000,20000,2500,3
+7411,Kottayam,Vadavathoor,5500000,13750,1730,3
+7417,Kottayam,Vadavathoor,4600000,11500,1410,3
+7421,Kottayam,Vadavathoor,22500000,20000,1300,4
+7423,Kottayam,Kodimatha,10000000,20000,2000,2
+7501,Haridwar,Shantikunj,2500000,6250,845,1
+7502,Haridwar,Shantikunj,2100000,5250,737,1
+7503,Haridwar,Shantikunj,3600000,9000,1239,2
+7504,Haridwar,Shantikunj,5000000,12500,1601,3
+7505,Haridwar,Sidcul,2400000,6000,860,2
+7506,Haridwar,Shantikunj,2250000,5625,756,1
+7507,Haridwar,Sidcul,2100000,5250,860,2
+7509,Haridwar,Bhupat Wala,2100000,5250,737,1
+7510,Haridwar,Salempur Mehdood,2100000,5250,810,2
+7511,Haridwar,Sidcul,6500000,16250,2450,4
+7514,Haridwar,Jwalapur,3000000,7500,880,2
+7515,Haridwar,Salempur Mehdood,2300000,5750,810,2
+7518,Haridwar,Bahadarabad,5600000,14000,1450,3
+7519,Haridwar,Aneki Hetmapur,4300000,10750,1484,3
+7601,Noida,Sector 150,8591625,20000,1575,3
+7602,Noida,Sector 150,4859999,12149,668,2
+7603,Noida,Sector 150,6909750,17274,1665,3
+7604,Noida,Sector 19 Yamuna Expressway,4108000,10270,1450,3
+7605,Noida,Sector 78,28500000,20000,4175,5
+7606,Noida,Sector 137,10700000,20000,2275,4
+7607,Noida,Sector 61,5500000,13750,950,2
+7608,Noida,Sector 118,4500000,11250,1050,2
+7609,Noida,Sector 150,16300000,20000,2300,3
+7610,Noida,Sector 151,4000000,10000,1350,3
+7611,Noida,Sector 70,4684000,11710,1041,2
+7612,Noida,Sector 82,6200000,15500,1250,3
+7613,Noida,Sector 150,7009675,17524,1285,3
+7614,Noida,Sector 107,17200000,20000,2070,3
+7615,Noida,Sector 110,2890000,7225,990,2
+7616,Noida,Sector 168,4990000,12475,1085,2
+7617,Noida,Sector 107,38429100,20000,4300,5
+7618,Noida,Sector 45,3500000,8750,1200,3
+7619,Noida,Sector 16,4450001,11125,1175,2
+7620,Noida,Sector 151,3959520,9898,953,2
+7701,Vijayawada,Ramavarapadu,3800000,9500,850,2
+7702,Vijayawada,Machavaram,6500000,16250,1625,3
+7703,Vijayawada,Poranki,6683000,16707,1485,3
+7704,Vijayawada,Gannavaram,5428000,13570,1551,3
+7705,Vijayawada,Sri Ramachandra Nagar,2800000,7000,850,2
+7706,Vijayawada,Telaprolu,3376000,8440,1351,2
+7707,Vijayawada,Telaprolu,3200000,8000,1289,2
+7708,Vijayawada,Poranki,3200000,8000,1289,2
+7709,Vijayawada,Ibrahimpatnam,5491000,13727,1445,3
+7710,Vijayawada,Benz Circle,8742000,20000,1345,2
+7711,Vijayawada,kunchanapalli,3776000,9440,1180,2
+7713,Vijayawada,currency nagar,2800000,7000,900,2
+7715,Vijayawada,kunchanapalli,3900000,9750,1181,2
+7716,Vijayawada,Ajit Singh Nagar,4200000,10500,1200,2
+7717,Vijayawada,ramavarappadu,7500000,18750,1375,2
+7718,Vijayawada,Kesarapalle,3750000,9375,1297,2
+7719,Vijayawada,Gannavaram,4900000,12250,1495,3
+7801,Salem,Lakshmi Nagar,7470000,18675,1444,3
+7802,Salem,Lakshmi Nagar,2455000,6137,491,1
+7803,Salem,Fairlands,7000000,17500,1080,2
+7804,Salem,Alagapuram,300000,750,1112,2
+7805,Salem,Lakshmi Nagar,5975000,14937,1145,3
+7806,Salem,Chinna Thirupathi,3700000,9250,1157,2
+7807,Salem,Lakshmi Nagar,5720000,14300,1094,3
+7808,Salem,Fairlands,7000000,17500,1500,2
+7810,Salem,Lakshmi Nagar,4760000,11900,902,1
+7901,Gwalior,Gandhi Nagar,3500000,8750,1000,3
+7902,Gwalior,Harishankar Puram Gwalior,3100000,7750,550,2
+7903,Gwalior,Sirol Road,2550000,6375,1215,2
+7904,Gwalior,Sirol,2400000,6000,1024,2
+7905,Gwalior,City Centre,2000000,5000,860,2
+7906,Gwalior,City Centre,2399999,5999,1215,2
+7907,Gwalior,Madhav Ganj,4600000,11500,1250,3
+7908,Gwalior,DB City,4187000,10467,1250,3
+7909,Gwalior,DB City,4375000,10937,1250,3
+7910,Gwalior,Sirol Road,3450000,8625,1455,3
+7911,Gwalior,Hurawali Link Road,5200000,13000,1600,3
+7912,Gwalior,Lalitpur Colony,3000000,7500,860,2
+7913,Gwalior,Hurawali Link Road,9200000,20000,2680,4
+7914,Gwalior,Mahalgaon,2800000,7000,700,2
+7915,Gwalior,Vinay Nagar,1600000,4000,600,2
+7916,Gwalior,Daulat Ganj,4000000,10000,800,2
+7917,Gwalior,Badagaon,3900000,9750,1836,3
+7918,Gwalior,City Centre,2550000,6375,685,2
+7919,Gwalior,DB City,6200000,15500,1800,3
+7920,Gwalior,Sirol Road,2500000,6250,1024,2
+8001,Bangalore,Krishnarajapura,6181619,15454,1135,2
+8002,Bangalore,Kengeri,6845330,17113,1670,3
+8003,Bangalore,Hulimavu,6694000,16735,1275,2
+8004,Bangalore,Ramamurthy Nagar,7644000,19110,1560,3
+8005,Bangalore,Doddanekundi,11700472,20000,1582,3
+8006,Bangalore,Nagarbhavi,9257010,20000,1638,3
+8007,Bangalore,Gunjur,6758800,16897,1220,2
+8008,Bangalore,Budigere Cross,6807800,17019,1272,2
+8009,Bangalore,Anjanapura,8962325,20000,1769,3
+8010,Bangalore,Krishnarajapura,8986395,20000,1605,3
+8011,Bangalore,Thanisandra,20000988,20000,2502,4
+8012,Bangalore,Sarjapur Road Post Railway Crossing,11602424,20000,1657,3
+8013,Bangalore,Krishnarajapura,8545000,20000,1700,3
+8014,Bangalore,Whitefield Hope Farm Junction,11005086,20000,1730,3
+8015,Bangalore,Doddanekundi,7520750,18801,1675,3
+8016,Bangalore,Begur,5001999,12504,1056,2
+8017,Bangalore,Whitefield Hope Farm Junction,8600000,20000,1507,3
+8018,Bangalore,Bommasandra,5080000,12700,1270,2
+8019,Bangalore,Whitefield Hope Farm Junction,5938515,14846,1485,3
+8020,Bangalore,Bagaluru Near Yelahanka,9400000,20000,1311,2
+8101,Delhi,Dwarka Mor,9000000,20000,1350,4
+8102,Delhi,Sector 22 Rohini,10800000,20000,1300,4
+8103,Delhi,Pitampura,34500000,20000,1650,3
+8104,Delhi,Alaknanda,22000000,20000,1550,3
+8105,Delhi,Sector 13 Dwarka,16000000,20000,1850,3
+8106,Delhi,Sector 19 Dwarka,20000000,20000,2200,4
+8107,Delhi,Sector 6 Dwarka,12500000,20000,1800,3
+8108,Delhi,Sector 6 Dwarka,15000000,20000,1700,3
+8109,Delhi,Sector 12 Dwarka,20000000,20000,2300,4
+8110,Delhi,Sector-18 Dwarka,16000000,20000,1800,3
+8111,Delhi,Rohini Sector 9,11200000,20000,1000,2
+8112,Delhi,Dwarka Mor,4999850,12499,950,3
+8113,Delhi,Sector 6 Dwarka,15600000,20000,1750,3
+8114,Delhi,Dwarka Mor,4200000,10500,675,3
+8115,Delhi,Sector 13 Rohini,11400000,20000,1400,3
+8116,Delhi,Sector-18 Dwarka,8400000,20000,1100,2
+8117,Delhi,Sector-18 Dwarka,21500000,20000,2000,4
+8118,Delhi,Sector-18 Dwarka,21000000,20000,2150,3
+8119,Delhi,Dwarka Mor,3100000,7750,750,3
+8120,Delhi,Sector 3 Dwarka,5800000,14500,850,2
+8201,Lucknow,Vrindavan Yojna,8000000,20000,1655,3
+8202,Lucknow,Naubasta Kala,1917500,4793,650,1
+8203,Lucknow,Uattardhona,6200000,15500,1450,3
+8204,Lucknow,Gomti Nagar Extension,9043198,20000,1857,3
+8206,Lucknow,Uattardhona,6350000,15875,1450,3
+8207,Lucknow,Naubasta Kala,3983500,9958,1350,3
+8208,Lucknow,Vrindavan Yojna,10300000,20000,2055,4
+8209,Lucknow,Uattardhona,3555000,8887,990,2
+8210,Lucknow,Gomti Nagar Extension,8692000,20000,1830,3
+8211,Lucknow,Sultanpur Road,5600000,14000,1400,3
+8212,Lucknow,Dalibagh Colony,6500000,16250,1300,2
+8213,Lucknow,Gomti Nagar Extension,4396000,10990,1099,2
+8214,Lucknow,Dalibagh Colony,6600000,16500,1300,3
+8215,Lucknow,Uattardhona,3514000,8785,815,2
+8216,Lucknow,Raebareli Road,4500000,11250,1635,2
+8217,Lucknow,Sushant Golf City,8550000,20000,2250,3
+8218,Lucknow,Mohibullapur,7400000,18500,1310,2
+8219,Lucknow,Hazratganj,5300000,13250,1150,2
+8220,Lucknow,Jiamau,5000000,12500,1400,3
+8301,Trivandrum,Kazhakkoottam,5500000,13750,1350,3
+8302,Trivandrum,Kazhakkoottam,4800000,12000,1027,2
+8303,Trivandrum,Peroorkada,5500000,13750,1200,3
+8304,Trivandrum,Technopark Phase III Main Road,4800000,12000,1027,2
+8305,Trivandrum,Kuravankonam,12500000,20000,1943,3
+8306,Trivandrum,Kuravankonam,12100000,20000,1895,3
+8307,Trivandrum,Kazhakkoottam,5200000,13000,1100,3
+8308,Trivandrum,Kulathoor,7900000,19750,1946,3
+8309,Trivandrum,Pallippuram,3250000,8125,780,2
+8310,Trivandrum,Ulloor,7600000,19000,1395,3
+8311,Trivandrum,Thycaud,7500000,18750,1350,3
+8312,Trivandrum,Peroorkada,9000000,20000,5000,3
+8313,Trivandrum,Technopark,5650000,14125,959,2
+8314,Trivandrum,Thampanoor,7000000,17500,1100,3
+8315,Trivandrum,Kurichi,5000000,12500,1116,2
+8316,Trivandrum,Nalanchira,7000000,17500,1791,3
+8317,Trivandrum,Karyavattom,9000000,20000,1714,3
+8318,Trivandrum,Vattiyoorkavu,5500000,13750,1215,2
+8319,Trivandrum,Kudappanakunnu,7000000,17500,1603,3
+8320,Trivandrum,Kazhakkoottam,5500000,13750,1400,3
+8401,Wayanad,Meppadi Bus Stand Road,30000000,20000,3000,2
+8402,Wayanad,Vellamunda,6700000,16750,3500,4
+8501,Jhajjar,Sector 4A Bahadurgarh,1560000,3900,635,1
+8502,Jhajjar,Sector 4A Bahadurgarh,1800000,4500,635,1
+8503,Jhajjar,Sector 15 Bahadurgarh,5500000,13750,1500,3
+8504,Jhajjar,Sector 4A Bahadurgarh,3500000,8750,1280,3
+8505,Jhajjar,Badsa,1900000,4750,1040,2
+8506,Jhajjar,Sector 4A Bahadurgarh,4700000,11750,2215,4
+8507,Jhajjar,Sector 15 Bahadurgarh,7000000,17500,1500,3
+8508,Jhajjar,Sainik Nagar,3400000,8500,1165,2
+8509,Jhajjar,Kherka Musalman,3000000,7500,1110,2
+8510,Jhajjar,Sector 4A Bahadurgarh,3450000,8625,1280,3
+8511,Jhajjar,Sector 4A Bahadurgarh,4600000,11500,2215,4
+8512,Jhajjar,Sector 4A Bahadurgarh,1750000,4375,635,1
+8513,Jhajjar,Sector 4A Bahadurgarh,3300000,8250,1280,3
+8514,Jhajjar,Sector 4A Bahadurgarh,3600000,9000,1280,2
+8515,Jhajjar,Sector 4A Bahadurgarh,4670000,11675,2215,4
+8516,Jhajjar,Sector 4A Bahadurgarh,2680000,6700,1110,2
+8517,Jhajjar,Sector 4A Bahadurgarh,2240000,5600,930,2
+8601,Jodhpur,Jodhpur Tekra,18500000,20000,2781,3
+8602,Jodhpur,AIIMS Road,4000000,10000,1340,3
+8603,Jodhpur,BJS Colony,6500000,16250,1250,3
+8604,Jodhpur,Pal Road,3200000,8000,950,2
+8605,Jodhpur,AIIMS Road,4000000,10000,1366,3
+8606,Jodhpur,Jhalamand,3500000,8750,1200,3
+8607,Jodhpur,Shyam Nagar,6500000,16250,1236,2
+8608,Jodhpur,Pal Gaon,2500000,6250,775,2
+8609,Jodhpur,Residential FlatSardarpura,4620000,11550,770,2
+8610,Jodhpur,Ratanada,3800000,9500,1500,3
+8611,Jodhpur,Pal Road,3250000,8125,900,2
+8612,Jodhpur,Phalodi Dechu Road,3900000,9750,1800,2
+8613,Jodhpur,Kamla Nehru Nagar,9319000,20000,2273,3
+8614,Jodhpur,Jhalamand,2100000,5250,700,2
+8615,Jodhpur,Ratanada,10000000,20000,2138,3
+8616,Jodhpur,Jaisalmer Bypass Road,4251000,10627,1165,2
+8617,Jodhpur,Ratanada,2150000,5375,910,2
+8618,Jodhpur,Sangariya,4088000,10220,1460,3
+8619,Jodhpur,Ratanada,8700000,20000,1595,3
+8620,Jodhpur,Paota,5500000,13750,1050,2
+8701,Durgapur,Bidhannagar,2653200,6633,1206,3
+8702,Durgapur,Shankarpur West,2654400,6636,1106,3
+8703,Durgapur,Bidhannagar,1700000,4250,780,2
+8704,Durgapur,Bidhannagar,2882000,7205,1310,3
+8705,Durgapur,Gopalpur,1485000,3712,925,2
+8706,Durgapur,Fuljhore,2535000,6337,1079,3
+8707,Durgapur,Gopalpur,1792604,4481,800,2
+8708,Durgapur,Bamunara,1980000,4950,1020,3
+8709,Durgapur,Kaliganj,1436500,3591,736,2
+8710,Durgapur,Kaliganj,1525982,3814,1018,2
+8711,Durgapur,Arrah Kalinagar,1936800,4842,807,2
+8712,Durgapur,Bidhannagar,2310000,5775,1050,2
+8713,Durgapur,Bidhannagar,3047000,7617,1385,3
+8714,Durgapur,Kaliganj,1451032,3627,968,2
+8715,Durgapur,Shankarpur West,2599200,6498,1083,3
+8716,Durgapur,Kaliganj,1429700,3574,731,2
+8718,Durgapur,Gopalpur,2351171,5877,1049,3
+8719,Durgapur,Arrah Kalinagar,3074400,7686,1281,3
+8720,Durgapur,Fuljhore,2041000,5102,972,2
+8801,Aligarh,Dhourra Mafi,3950000,9875,1200,3
+8802,Aligarh,Sasni Gate,5700000,14250,1686,3
+8803,Aligarh,Marris Road,5000000,12500,1600,3
+8804,Aligarh,Anoop Shahar Road Aligarh,2350000,5875,1325,3
+8805,Aligarh,Swarna Jayanti Nagar,3300000,8250,1350,3
+8806,Aligarh,Marris Road,6000000,15000,1800,3
+8807,Aligarh,Quarsi,3400000,8500,1400,3
+8808,Aligarh,Civil Lines,6500000,16250,1650,3
+8809,Aligarh,ADA Colony,320000,800,1400,3
+8810,Aligarh,Swarna Jayanti Nagar,3200000,8000,1350,3
+8901,Dehradun,GMS Road,7500000,18750,1794,3
+8902,Dehradun,Sudhowala,6500000,16250,1593,2
+8903,Dehradun,Aman Vihar,6500000,16250,1600,3
+8904,Dehradun,Kulhan,6930000,17325,1925,3
+8905,Dehradun,Kulhan,5800000,14500,1480,2
+8906,Dehradun,GMS Road,7100000,17750,1878,3
+8907,Dehradun,Jakhan,9450000,20000,1890,3
+8908,Dehradun,Aman Vihar,4900000,12250,1800,3
+8909,Dehradun,Rajpur Road,4300000,10750,1400,2
+8910,Dehradun,Rajpur Road,5700000,14250,1950,3
+8911,Dehradun,Dehradun Road,3400000,8500,750,1
+8912,Dehradun,Kulhan,8500000,20000,1900,3
+8913,Dehradun,Kanwali,7000000,17500,1250,3
+8914,Dehradun,GMS Road,7500000,18750,1811,3
+8915,Dehradun,Aman Vihar,5350000,13375,1335,3
+8917,Dehradun,Gangotri Vihar,5600000,14000,1515,3
+8918,Dehradun,Rajpur Road,9500000,20000,2200,3
+8919,Dehradun,Sahastradhara Road,3500000,8750,1250,2
+9001,Guntur,Tadepalli,5344000,13360,1336,2
+9002,Guntur,Tadepalli,6023000,15057,1585,3
+9003,Guntur,Guntur Amaravathi Road,4000000,10000,1200,2
+9004,Guntur,Tadepalli,8676000,20000,1928,3
+9005,Guntur,Gujjanagundla,3861000,9652,1170,2
+9006,Guntur,Vijayapuri Colony,4000000,10000,1600,3
+9007,Guntur,Palakaluru Road,3292200,8230,1116,2
+9008,Guntur,Gorantla,3795000,9487,1150,2
+9009,Guntur,SVN Colony,5500000,13750,1659,3
+9010,Guntur,RTO Office Road,4300000,10750,1260,2
+9011,Guntur,Koppuravuru,4950000,12375,1650,3
+9012,Guntur,Palakaluru Road,3050000,7625,1116,2
+9013,Guntur,Koppuravuru,4000000,10000,1250,2
+9014,Guntur,Haailand Road,5337500,13343,1525,3
+9015,Guntur,GunturChennai Highway,1816500,4541,865,2
+9016,Guntur,1st Lane,5875000,14687,1175,2
+9017,Guntur,Gorantla,4200000,10500,1200,2
+9018,Guntur,Mangalagiri,6960000,17400,1740,3
+9019,Guntur,Gorantla,3580500,8951,1085,2
+9020,Guntur,Reddypalem,3400000,8500,1088,2
+9101,Jalandhar,Kuhali,1390000,3475,655,1
+9102,Jalandhar,Kuhali,2570000,6425,1125,2
+9103,Jalandhar,Kuhali,2590000,6475,1100,3
+9104,Jalandhar,Kuhali,1450000,3625,575,1
+9105,Jalandhar,Hoshiarpur Road,3528000,8820,1138,2
+9106,Jalandhar,Pholriwal,4800000,12000,1600,3
+9107,Jalandhar,Bypass Road,1180000,2950,800,2
+9108,Jalandhar,66 Feet Road,2400000,6000,820,2
+9109,Jalandhar,66 Feet Road,3500000,8750,1200,3
+9110,Jalandhar,Kuhali,1989000,4972,1100,2
+9111,Jalandhar,Jalandhar Bypass Road,1290000,3225,800,2
+9112,Jalandhar,Urban Estate phase II,2400000,6000,820,2
+9113,Jalandhar,Salempur Road,1290000,3225,800,2
+9115,Jalandhar,Model Town,4500000,11250,1450,3
+9117,Jalandhar,Urban Estate phase II,7200000,18000,2050,4
+9118,Jalandhar,Hoshiarpur Road,3530000,8825,1138,2
+9119,Jalandhar,Kuhali,2590000,6475,850,2
+9201,Raigad,New Panvel East,3500000,8750,607,1
+9202,Raigad,Shilottar Raichur,3500000,8750,690,1
+9203,Raigad,Kashele,3761000,9402,885,2
+9204,Raigad,New Panvel East,4000000,10000,660,1
+9205,Raigad,New Panvel East,4700000,11750,550,1
+9206,Raigad,Yashwant Nagar,6800000,17000,1229,2
+9207,Raigad,New Panvel East,7500000,18750,950,2
+9208,Raigad,New Panvel East,3200000,8000,328,1
+9209,Raigad,New Panvel East,4336000,10840,668,1
+9210,Raigad,Mamdapur,1500000,3750,685,1
+9211,Raigad,New Panvel East,8500000,20000,655,1
+9212,Raigad,New Panvel East,6500000,16250,825,2
+9213,Raigad,Kolad,1600000,4000,410,1
+9214,Raigad,New Panvel East,12600000,20000,1474,3
+9215,Raigad,New Panvel East,10000000,20000,1450,3
+9216,Raigad,Akurli,1960000,4900,350,1
+9217,Raigad,Dahivali,1900000,4750,640,1
+9218,Raigad,Nevali,3000000,7500,608,1
+9219,Raigad,Sakinaka,17500000,20000,1300,2
+9220,Raigad,Chavani,2500000,6250,625,1
+9301,Ooty,Fern Hill,1550000,3875,1200,1
+9302,Ooty,Kotagiri,12500000,20000,2000,3
+9306,Ooty,Coonoor,35000000,20000,2490,4
+9307,Ooty,KotagiriKattabettuOoty Road,15000000,20000,2850,2
+9308,Ooty,Coonoor Road,30000000,20000,3484,6
+9309,Ooty,Coonoor,33000000,20000,4410,3
+9310,Ooty,Fingerpost,15000000,20000,3920,6
+9311,Ooty,Coonoor,30000000,20000,7500,4
+9312,Ooty,KotagiriKattabettuOoty Road,19600000,20000,2800,3
+9314,Ooty,KotagiriKattabettuOoty Road,15000000,20000,2700,4
+9316,Ooty,Ooty Thummanatty Kappachi Road,128281814,20000,9541,6
+9318,Ooty,Coonoor,13000000,20000,2500,4
+9319,Ooty,Kathadimattam,2350000,5875,600,2
+9320,Ooty,Coonoor,45000000,20000,4330,4
+9321,Ooty,Coonoor,30000000,20000,3950,4
+9401,Faridabad,Sector 78,2582000,6455,860,3
+9402,Faridabad,Green Field Colony,11200000,20000,5600,5
+9403,Faridabad,Sector 42,8300000,20000,1520,3
+9404,Faridabad,Sector 41,14100008,20000,2100,3
+9405,Faridabad,Sector 41,18200000,20000,2110,3
+9406,Faridabad,Sector 42,11500000,20000,4050,4
+9407,Faridabad,Sector 43,8600000,20000,2520,4
+9408,Faridabad,Sector 91,2800000,7000,1200,2
+9409,Faridabad,Sector 86,4100000,10250,1365,2
+9410,Faridabad,Sector 75,2100000,5250,900,2
+9411,Faridabad,Sector 42,8900000,20000,2600,4
+9412,Faridabad,Sector 84,3500000,8750,971,3
+9413,Faridabad,Sector 42,3800000,9500,1250,3
+9414,Faridabad,Dlf Phase 1,30000000,20000,2600,3
+9415,Faridabad,Sector 41,9200000,20000,2900,4
+9416,Faridabad,sector 46,6800000,17000,2000,3
+9417,Faridabad,Sector 89,2630000,6575,845,3
+9418,Faridabad,Sector 77,4900000,12250,1675,2
+9419,Faridabad,Sector 88,3600000,9000,1304,2
+9420,Faridabad,Sector 88,5800000,14500,1590,3
+9501,Goa,Vasco Da Gama,3800000,9500,544,1
+9502,Goa,Penha de Franca,9700000,20000,1815,3
+9503,Goa,Salcete,7500000,18750,1250,2
+9504,Goa,Velha,8000000,20000,550,1
+9505,Goa,Candolim,5500000,13750,1000,2
+9506,Goa,Velha,8500000,20000,683,1
+9507,Goa,Dabolim,6802500,17006,899,1
+9508,Goa,Dabolim,4900000,12250,810,2
+9509,Goa,Penha de Franca,15500000,20000,2835,3
+9510,Goa,Benaulim,7700000,19250,1350,2
+9511,Goa,Velha,7500000,18750,460,1
+9512,Goa,Dabolim,8604000,20000,1220,2
+9513,Goa,Velha,9900000,20000,782,1
+9514,Goa,Mulgao,4000000,10000,660,1
+9515,Goa,kadamba plateau,5500000,13750,1350,2
+9516,Goa,Calangute,8500000,20000,1000,1
+9517,Goa,Corlim,5500000,13750,1119,2
+9518,Goa,Verla,5000000,12500,684,1
+9519,Goa,Ponda,3900000,9750,958,2
+9520,Goa,Karaswada,5500000,13750,1012,2
+9601,Sonepat,Kundli,5500000,13750,1845,3
+9602,Sonepat,Sector 35,2800000,7000,1269,2
+9604,Sonepat,Kundli,2600000,6500,1264,2
+9605,Sonepat,Sector 8,4150000,10375,1350,2
+9606,Sonepat,Kundli,5000000,12500,1845,3
+9607,Sonepat,Kundli,2500000,6250,1264,2
+9608,Sonepat,Kundli,2199000,5497,900,2
+9609,Sonepat,Kundli,2700000,6750,1264,2
+9610,Sonepat,Kundli,5050000,12625,1785,3
+9611,Sonepat,Sonipat Bypass Road,3000000,7500,1110,2
+9612,Sonepat,TDI City Kundli,6400000,16000,1770,3
+9613,Sonepat,Kundli,2800000,7000,1264,2
+9614,Sonepat,Kundli,3140000,7850,1280,2
+9615,Sonepat,Kundli,7000000,17500,1400,3
+9616,Sonepat,Kundli,3200000,8000,1110,2
+9617,Sonepat,Kundli,7300000,18250,1870,3
+9619,Sonepat,Kundli,14500000,20000,4400,5
+9620,Sonepat,Kundli,3800000,9500,1785,3
+9701,Solan,Dharampur,6000000,15000,1400,2
+9702,Solan,Kasauli,3600000,9000,750,1
+9703,Solan,Kainthri,3250000,8125,650,1
+9704,Solan,Deoghat,4600000,11500,1500,3
+9705,Solan,Kainthri,4990000,12475,1020,2
+9706,Solan,Kainthri,3500000,8750,935,1
+9707,Solan,Kainthri,5600000,14000,1409,3
+9708,Solan,Chambaghat Basal Shalomna Kandaghat Road,4500000,11250,1500,3
+9709,Solan,Kainthri,3000000,7500,500,1
+9710,Solan,Saproon,5950000,14875,1600,3
+9712,Solan,Kainthri,6290000,15725,1529,3
+9713,Solan,Kumarhatti Nahan Road,3190000,7975,740,1
+9715,Solan,Dharampur,2800000,7000,750,2
+9716,Solan,Deoghat,4000000,10000,1200,2
+9717,Solan,Kandaghat,2100000,5250,550,1
+9718,Solan,Kumarhatti Nahan Road,15000000,20000,4000,4
+9719,Solan,Kainthri,6000000,15000,1529,3
+9720,Solan,Saproon,4950000,12375,1450,2
+9801,Karnal,Taraori,971000,2427,403,1
+9802,Karnal,Sector 35,2850000,7125,1440,3
+9803,Karnal,Sector 35,2300000,5750,1250,2
+9804,Karnal,Tikri,2025000,5062,1200,2
+9806,Karnal,Karnal Road,5000000,12500,900,2
+9807,Karnal,taraori Road,971050,2427,450,1
+9808,Karnal,Sector 33,4300000,10750,1310,3
+9809,Karnal,Jyoti Nagar,3500000,8750,1200,2
+9810,Karnal,Sector 32,2099000,5247,975,2
+9811,Karnal,Sector 36,4500000,11250,1962,3
+9812,Karnal,Sector 35,3500000,8750,1530,3
+9813,Karnal,Sector 35,2900000,7250,1300,3
+9814,Karnal,Taraori,1507285,3768,1012,2
+9815,Karnal,Karnal Road,6700000,16750,1300,2
+9816,Karnal,Sector 36,3700000,9250,1899,3
+9817,Karnal,Sector 35,1500000,3750,950,2
+9818,Karnal,Karnal Road,9000000,20000,1350,2
+9819,Karnal,Sector 35,7500000,18750,2424,4
